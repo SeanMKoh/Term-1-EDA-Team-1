@@ -1,0 +1,262 @@
+,movie,year,content_rating,genre,duration_min,imdb_rating,metascore,votes
+0,My Policeman,2022,16,"['Drama', ' Romance']",113,6.5,50,10990
+1,The People We Hate at the Wedding,2022,16,['Comedy'],99,5.7,37,2290
+2,Knives Out,2019,12,"['Comedy', ' Crime', ' Drama']",130,7.9,82,622745
+3,Once Upon a Time... in Hollywood,2019,16,"['Comedy', ' Drama']",161,7.6,83,730262
+4,The Dark Knight,2008,16,"['Action', ' Crime', ' Drama']",152,9,84,2637033
+5,Inception,2010,12,"['Action', ' Adventure', ' Sci-Fi']",148,8.8,74,2336780
+6,Aquaman,2018,12,"['Action', ' Adventure', ' Fantasy']",143,6.8,55,473345
+7,Oblivion,2013,12,"['Action', ' Adventure', ' Sci-Fi']",124,7,54,526423
+8,Mean Girls,2004,6,['Comedy'],97,7.1,66,385391
+9,Run Sweetheart Run,2020,18,"['Horror', ' Thriller']",104,5.4,51,3382
+10,No Country for Old Men,2007,16,"['Crime', ' Drama', ' Thriller']",122,8.2,92,968828
+11,Blacklight,2022,12,"['Action', ' Thriller']",104,4.8,27,17943
+12,Samaritan,2022,16,"['Action', ' Drama', ' Fantasy']",102,5.7,45,43359
+13,Brahmastra Part One: Shiva,2022,,"['Action', ' Adventure', ' Fantasy']",167,5.6,57,103588
+14,Zack Snyder's Justice League,2021,18,"['Action', ' Adventure', ' Fantasy']",242,8,54,396185
+15,The Prestige,2006,12,"['Drama', ' Mystery', ' Sci-Fi']",130,8.5,66,1326979
+16,The Dark Knight Rises,2012,12,"['Action', ' Drama']",164,8.4,78,1697213
+17,Mad Max: Fury Road,2015,16,"['Action', ' Adventure', ' Sci-Fi']",120,8.1,90,998270
+18,Spider-Man: Een nieuw universum,2018,6,"['Animation', ' Action', ' Adventure']",117,8.4,87,523862
+19,The Voyeurs,2021,18,"['Drama', ' Mystery', ' Thriller']",116,6,54,22388
+20,Cash Truck,2021,16,"['Action', ' Crime', ' Thriller']",119,7.1,57,176844
+21,Thirteen Lives,2022,16,"['Action', ' Adventure', ' Biography']",147,7.8,66,49899
+22,Ready Player One,2018,12,"['Action', ' Adventure', ' Sci-Fi']",140,7.4,64,435643
+23,Deep Water,2022,18,"['Drama', ' Mystery', ' Thriller']",115,5.4,53,45876
+24,The Devil's Advocate,1997,16,"['Drama', ' Mystery', ' Thriller']",144,7.5,60,373022
+25,The Usual Suspects,1995,16,"['Crime', ' Drama', ' Mystery']",106,8.5,77,1081901
+26,"Argentina, 1985",2022,16,"['Biography', ' Crime', ' Drama']",140,7.8,78,8741
+27,Terminator Genisys,2015,12,"['Action', ' Adventure', ' Sci-Fi']",126,6.3,38,279062
+28,Legend,2015,16,"['Biography', ' Crime', ' Drama']",132,6.9,55,183899
+29,Orphan: First Kill,2022,16,"['Crime', ' Drama', ' Horror']",99,5.9,54,29832
+30,Venom,2018,12,"['Action', ' Adventure', ' Sci-Fi']",112,6.6,35,484114
+31,Greenland,2020,12,"['Action', ' Thriller']",119,6.4,64,117594
+32,A Quiet Place,2018,16,"['Drama', ' Horror', ' Sci-Fi']",90,7.5,82,527401
+33,It Follows,2014,16,"['Horror', ' Mystery', ' Thriller']",100,6.8,83,243957
+34,The Contractor,2022,16,"['Action', ' Drama', ' Thriller']",103,5.8,52,20621
+35,Up in the Air,2009,AL,"['Comedy', ' Drama', ' Romance']",109,7.4,83,337075
+36,A Beautiful Mind,2001,12,"['Biography', ' Drama']",135,8.2,72,930534
+37,Batman v Superman: Dawn of Justice,2016,12,"['Action', ' Adventure', ' Sci-Fi']",151,6.4,44,699195
+38,Jumanji: Welcome to the Jungle,2017,12,"['Action', ' Adventure', ' Comedy']",119,6.9,58,380612
+39,Mission: Impossible - Fallout,2018,12,"['Action', ' Adventure', ' Thriller']",147,7.7,86,332849
+40,Spencer,2021,12,"['Biography', ' Drama']",117,6.6,76,68166
+41,Justice League,2017,12,"['Action', ' Adventure', ' Fantasy']",120,6.1,45,452939
+42,Aladdin,2019,9,"['Adventure', ' Comedy', ' Family']",128,6.9,53,265973
+43,After We Collided,2020,12,"['Drama', ' Romance']",105,5,14,32414
+44,Fantastic Mr. Fox,2009,6,"['Animation', ' Adventure', ' Comedy']",87,7.9,83,232844
+45,A Star Is Born,2018,12,"['Drama', ' Music', ' Romance']",136,7.6,88,383733
+46,Independence Day,1996,AL,"['Action', ' Adventure', ' Sci-Fi']",145,7,59,576011
+47,Catherine Called Birdy,2022,13+,['Adventure'],108,6.5,74,3695
+48,Black Hawk Down,2001,16,"['Action', ' Drama', ' History']",144,7.7,74,397517
+49,The Tomorrow War,2021,16,"['Action', ' Adventure', ' Drama']",138,6.5,45,205430
+50,Minority Report,2002,12,"['Action', ' Crime', ' Mystery']",145,7.6,80,552105
+51,Dirty Grandpa,2016,12,['Comedy'],102,5.9,21,124921
+52,Jumanji: The Next Level,2019,12,"['Action', ' Adventure', ' Comedy']",123,6.7,58,250515
+53,Infinite,2021,12,"['Action', ' Sci-Fi', ' Thriller']",106,5.4,28,50833
+54,Wild Things,1998,12,"['Crime', ' Drama', ' Mystery']",108,6.6,52,121868
+55,Jack Reacher,2012,12,"['Action', ' Mystery', ' Thriller']",130,7,50,342830
+56,Spy Kids,2001,AL,"['Action', ' Adventure', ' Comedy']",88,5.6,71,118599
+57,Transformers: Age of Extinction,2014,12,"['Action', ' Adventure', ' Sci-Fi']",165,5.6,32,314977
+58,Mission: Impossible,1996,12,"['Action', ' Adventure', ' Thriller']",110,7.1,59,427300
+59,Goodnight Mommy,2022,16,"['Crime', ' Drama', ' Horror']",92,5.6,45,8884
+60,Revolutionary Road,2008,12,"['Drama', ' Romance']",119,7.3,69,214340
+61,The Meg,2018,12,"['Action', ' Horror', ' Sci-Fi']",113,5.6,46,172306
+62,The Fugitive,1993,12,"['Action', ' Crime', ' Drama']",130,7.8,87,296258
+63,The Conjuring 2,2016,16,"['Horror', ' Mystery', ' Thriller']",134,7.3,65,271876
+64,The Legend of Tarzan,2016,12,"['Action', ' Adventure', ' Drama']",110,6.2,44,177977
+65,Godzilla II: King of the Monsters,2019,12,"['Action', ' Adventure', ' Fantasy']",132,6,48,183462
+66,The Untouchables,1987,16,"['Crime', ' Drama', ' Thriller']",119,7.9,79,310733
+67,Palm Springs,2020,16,"['Comedy', ' Fantasy', ' Mystery']",90,7.4,83,159397
+68,Gravity,2013,12,"['Drama', ' Sci-Fi', ' Thriller']",91,7.7,96,825188
+69,The Italian Job,2003,12,"['Action', ' Crime', ' Thriller']",111,7,68,369876
+70,The Edge of Seventeen,2016,12,"['Comedy', ' Drama']",104,7.3,77,127523
+71,Rocketman,2019,12,"['Biography', ' Drama', ' Musical']",121,7.3,69,175649
+72,21 Bridges,2019,16,"['Action', ' Crime', ' Drama']",99,6.6,51,67923
+73,The Nun,2018,16,"['Horror', ' Mystery', ' Thriller']",96,5.3,46,142063
+74,Escape Room,2019,16,"['Action', ' Adventure', ' Horror']",99,6.4,48,123526
+75,All the Old Knives,2022,16,"['Mystery', ' Thriller']",101,6.1,62,23204
+76,Cinderella,2021,6,"['Comedy', ' Family', ' Fantasy']",113,4.3,41,42318
+77,Boss Level,2020,16,"['Action', ' Adventure', ' Comedy']",100,6.8,56,68080
+78,Sound of Metal,2019,12,"['Drama', ' Music']",120,7.7,82,128056
+79,Hotel Transylvania: Transformania,2022,6,"['Animation', ' Adventure', ' Comedy']",87,6,46,30985
+80,Breakfast at Tiffany's,1961,AL,"['Comedy', ' Drama', ' Romance']",115,7.6,76,181279
+81,The Equalizer 2,2018,16,"['Action', ' Crime', ' Thriller']",121,6.7,50,160798
+82,Blood Diamond,2006,16,"['Adventure', ' Drama', ' Thriller']",143,8,64,550049
+83,The Commuter,2018,12,"['Action', ' Mystery', ' Thriller']",104,6.3,56,116683
+84,Paddington 2,2017,6,"['Adventure', ' Comedy', ' Family']",103,7.8,88,79438
+85,I Want You Back,2022,18,"['Comedy', ' Romance']",116,6.6,62,18982
+86,Rambo: Last Blood,2019,16,"['Action', ' Crime', ' Thriller']",89,6.1,26,99196
+87,Ace Ventura: Pet Detective,1994,6,['Comedy'],86,6.9,37,303093
+88,Searching,2018,12,"['Drama', ' Horror', ' Mystery']",102,7.6,71,163464
+89,Paddington,2014,6,"['Adventure', ' Comedy', ' Family']",95,7.3,77,117667
+90,The Gunman,2015,16,"['Action', ' Adventure', ' Crime']",115,5.8,39,41617
+91,The Quick and the Dead,1995,16,"['Action', ' Romance', ' Thriller']",108,6.5,49,95303
+92,Signs,2002,16,"['Drama', ' Mystery', ' Sci-Fi']",106,6.8,59,364552
+93,Men in Black 3,2012,9,"['Action', ' Adventure', ' Comedy']",106,6.8,58,364398
+94,The Big Sick,2017,AL,"['Comedy', ' Drama', ' Romance']",120,7.5,86,136187
+95,Jfk,1991,12,"['Drama', ' History', ' Thriller']",189,8,72,157030
+96,The Electrical Life of Louis Wain,2021,12,"['Biography', ' Drama', ' History']",111,6.8,63,14755
+97,Mission: Impossible - Ghost Protocol,2011,12,"['Action', ' Thriller']",132,7.4,73,491088
+98,The Protégé,2021,16,"['Action', ' Thriller']",109,6.1,48,32570
+99,The Tender Bar,2021,16,['Drama'],106,6.7,53,28472
+100,End of Watch,2012,16,"['Action', ' Adventure', ' Crime']",109,7.6,68,249822
+101,Guns Akimbo,2019,16,"['Action', ' Comedy', ' Crime']",98,6.3,42,62297
+102,The Marksman,2021,16,"['Action', ' Drama']",108,5.6,44,34521
+103,Geostorm,2017,12,"['Action', ' Sci-Fi', ' Thriller']",109,5.3,21,108953
+104,A Series of Unfortunate Events,2004,MG6,"['Adventure', ' Comedy', ' Family']",108,6.8,62,210370
+105,Annabelle,2014,16,"['Horror', ' Mystery', ' Thriller']",99,5.4,37,160687
+106,The Lodge,2019,16,"['Drama', ' Horror', ' Mystery']",108,6,64,48416
+107,Good Night Oppy,2022,PG,['Documentary'],105,7.8,65,259
+108,Black Friday,2021,16,"['Comedy', ' Horror']",84,4.6,52,5790
+109,Without Remorse,2021,16,"['Action', ' Thriller', ' War']",109,5.8,41,58491
+110,Four Brothers,2005,12,"['Action', ' Crime', ' Drama']",109,6.8,49,147999
+111,I Care a Lot,2020,16,"['Comedy', ' Crime', ' Drama']",118,6.3,66,133192
+112,Rampage: Big Meets Bigger,2018,12,"['Action', ' Adventure', ' Sci-Fi']",107,6.1,45,169122
+113,The Rainmaker,1997,12,"['Crime', ' Drama', ' Thriller']",135,7.2,72,75849
+114,Easy Rider,1969,12,"['Adventure', ' Drama']",95,7.3,85,110759
+115,My Best Friend's Exorcism,2022,16,"['Comedy', ' Horror', ' Thriller']",97,5.3,58,4156
+116,Jujutsu Kaisen 0: The Movie,2021,12,"['Animation', ' Action', ' Fantasy']",105,7.8,71,18706
+117,Annabelle: Creation,2017,16,"['Horror', ' Mystery', ' Thriller']",109,6.5,62,135774
+118,Trolls World Tour,2020,6,"['Animation', ' Adventure', ' Comedy']",91,6.1,51,23754
+119,Mission: Impossible III,2006,12,"['Action', ' Adventure', ' Thriller']",126,6.9,66,357888
+120,The Goldfinch,2019,12,['Drama'],149,6.4,40,23725
+121,Love Story,1970,14,"['Drama', ' Romance']",100,6.9,84,34775
+122,Cold Pursuit,2019,16,"['Action', ' Comedy', ' Crime']",119,6.2,57,69844
+123,Coming 2 America,2021,9,['Comedy'],110,5.3,52,70351
+124,The Guernsey Literary Society,2018,12,"['Drama', ' Romance', ' War']",124,7.3,65,47261
+125,Nanny,2022,R,"['Drama', ' Horror', ' Thriller']",97,6.2,71,396
+126,The Ice Road,2021,12,"['Action', ' Adventure', ' Thriller']",109,5.6,42,41443
+127,Bastille Day,2016,12,"['Action', ' Crime', ' Drama']",92,6.3,48,44674
+128,Borat Subsequent Moviefilm,2020,R,['Comedy'],95,6.6,68,141276
+129,Jolt,2021,16,"['Action', ' Comedy', ' Crime']",91,5.6,48,31255
+130,Young Guns II,1990,16,"['Action', ' Western']",104,6.5,47,36712
+131,Bloodshot,2020,12,"['Action', ' Adventure', ' Sci-Fi']",109,5.7,44,78418
+132,The Upside,2017,AL,"['Comedy', ' Drama']",126,7,46,57186
+133,"Don't Worry, He Won't Get Far on Foot",2018,12,"['Biography', ' Comedy', ' Drama']",114,6.8,67,27535
+134,Being the Ricardos,2021,16,"['Biography', ' Drama']",131,6.5,60,41573
+135,Don't Make Me Go,2022,18+,['Drama'],109,6.7,54,2960
+136,Poseidon,2006,12,"['Action', ' Adventure', ' Thriller']",98,5.7,50,105785
+137,All Dogs Go to Heaven,1989,AL,"['Animation', ' Adventure', ' Comedy']",84,6.7,50,42514
+138,A Perfect Murder,1998,16,"['Crime', ' Drama', ' Thriller']",107,6.6,50,86516
+139,The Craft: Legacy,2020,12,"['Drama', ' Fantasy', ' Horror']",97,4.5,54,14074
+140,The Final Destination,2009,16,"['Horror', ' Thriller']",82,5.1,30,107399
+141,Emergency,2022,18,"['Comedy', ' Drama', ' Thriller']",105,6.1,73,7657
+142,The Wall,2017,16,"['Action', ' Drama', ' Thriller']",88,6.2,57,27714
+143,Bliss,2021,16,"['Drama', ' Romance', ' Sci-Fi']",103,5.3,40,18114
+144,Pinocchio,2019,9,"['Drama', ' Family', ' Fantasy']",125,6.2,65,13230
+145,The Report,2019,16,"['Biography', ' Crime', ' Drama']",119,7.2,66,44177
+146,Balloon,2018,12,"['Drama', ' History', ' Thriller']",125,7.5,53,11827
+147,The Only Living Boy in New York,2017,AL,['Drama'],89,6.3,33,15073
+148,World Invasion: Battle Los Angeles,2011,12,"['Action', ' Adventure', ' Sci-Fi']",116,5.7,37,181025
+149,The Kitchen,2019,16,"['Action', ' Crime', ' Drama']",102,5.6,35,21420
+150,Book of Love,2022,AL,"['Comedy', ' Romance']",106,5.5,44,2684
+151,Alpha,2018,12,"['Action', ' Adventure', ' Drama']",96,6.6,63,63040
+152,Driving Miss Daisy,1989,AL,"['Comedy', ' Drama', ' Romance']",99,7.3,81,110746
+153,Queenpins,2021,9,"['Comedy', ' Crime']",110,6.3,45,14449
+154,King of Thieves,2018,12,"['Biography', ' Crime', ' Drama']",108,5.5,48,14937
+155,Unsane,2018,16,"['Drama', ' Horror', ' Mystery']",98,6.4,63,46940
+156,Richie Rich,1994,AL,"['Comedy', ' Family']",95,5.4,49,69783
+157,Goosebumps 2: Haunted Halloween,2018,9,"['Adventure', ' Comedy', ' Fantasy']",90,5.6,53,21640
+158,The Map of Tiny Perfect Things,2021,13,"['Comedy', ' Fantasy', ' Romance']",98,6.8,61,23220
+159,The Grudge,2020,16,"['Fantasy', ' Horror']",94,4.3,41,26647
+160,One Night in Miami...,2020,R,['Drama'],114,7.1,83,32264
+161,Shin Evangelion Gekijôban,2021,,"['Animation', ' Action', ' Drama']",154,8,84,10623
+162,The Aeronauts,2019,12,"['Action', ' Adventure', ' Drama']",100,6.6,60,33971
+163,Black Box,2020,12,"['Horror', ' Mystery', ' Sci-Fi']",100,6.2,62,15059
+164,Chemical Hearts,2020,R,"['Drama', ' Romance']",93,6.2,57,13257
+165,The Vast of Night,2019,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",91,6.7,84,39966
+166,The Lie,2018,16,"['Drama', ' Thriller']",97,5.8,45,17524
+167,Death Wish II,1982,16,"['Action', ' Crime', ' Drama']",89,5.9,11,16459
+168,Suite Française,2014,12,"['Drama', ' Romance', ' Thriller']",107,7,63,26800
+169,How to Build a Girl,2019,18,['Comedy'],102,5.9,69,4574
+170,Nocturne,2020,,"['Drama', ' Horror', ' Music']",90,5.7,58,9566
+171,Pokémon: De Film - Mew Tegen Mewtwo,1998,AL,"['Animation', ' Action', ' Adventure']",96,6.2,35,43504
+172,Master,2022,18,"['Drama', ' Horror', ' Mystery']",98,5.2,66,5045
+173,Joe Bell,2020,12,"['Biography', ' Drama']",94,6.1,54,7752
+174,Uncle Frank,2020,Unrated,"['Comedy', ' Drama']",95,7.3,58,20819
+175,Last Flag Flying,2017,R,"['Comedy', ' Drama', ' War']",125,6.9,65,26128
+176,Late Night,2019,12,"['Comedy', ' Drama']",102,6.5,70,38054
+177,The 15:17 to Paris,2018,12,"['Biography', ' Drama', ' Thriller']",94,5.3,45,33995
+178,Geronimo: An American Legend,1993,16,"['Drama', ' History', ' Western']",115,6.5,58,12037
+179,The Glorias,2020,12,"['Biography', ' Drama', ' History']",147,5.9,58,3314
+180,Veer-Zaara,2004,,"['Drama', ' Family', ' Musical']",192,7.8,67,53673
+181,Vanguard,2020,PG-13,"['Action', ' Adventure', ' Comedy']",107,4.7,34,5796
+182,Early Man,2018,AL,"['Animation', ' Adventure', ' Comedy']",89,6.1,68,22397
+183,Cedar Rapids,2011,12,['Comedy'],87,6.3,70,38657
+184,Uncle Drew,2018,PG-13,"['Comedy', ' Sport']",103,5.8,57,14656
+185,Zoe,2018,12,"['Romance', ' Sci-Fi']",104,6,39,9374
+186,Gully Boy,2019,6,"['Drama', ' Music', ' Romance']",154,7.9,65,40079
+187,De Oost,2020,16,"['Drama', ' Thriller', ' War']",137,6.9,52,5674
+188,Blow the Man Down,2019,R,"['Comedy', ' Crime', ' Drama']",91,6.4,72,10739
+189,Target Number One,2020,16,"['Crime', ' Thriller']",125,6.2,62,5233
+190,Moeders,2021,18,['Horror'],83,4.8,43,1515
+191,Troop Zero,2019,PG,"['Comedy', ' Drama', ' Family']",94,6.8,58,11063
+192,Confrontatie,2021,16,"['Drama', ' Sci-Fi', ' Thriller']",108,5.9,57,9918
+193,American Outlaws,2001,12,"['Action', ' Western']",94,5.9,25,16688
+194,Brittany Runs a Marathon,2019,R,"['Comedy', ' Drama']",104,6.8,72,20458
+195,7500,2019,16,"['Action', ' Drama', ' Thriller']",93,6.3,58,29519
+196,Our Kind of Traitor,2016,16,"['Crime', ' Drama', ' Thriller']",108,6.2,57,22490
+197,Shaun het Schaap: De Film,2015,AL,"['Animation', ' Adventure', ' Comedy']",85,7.3,81,41125
+198,Charlotte,2021,12,"['Animation', ' Biography', ' Drama']",92,6.3,58,269
+199,The Manor,2021,16,"['Horror', ' Mystery']",81,5.3,59,6148
+200,Notre-Dame brûle,2022,,"['Biography', ' Drama', ' Thriller']",110,6.5,64,1246
+201,Padmaavat,2018,12,"['Drama', ' History', ' Romance']",164,7,63,33195
+202,Dating Amber,2020,,"['Comedy', ' Drama', ' Romance']",92,7,59,6531
+203,Sometimes Always Never,2018,PG-13,"['Comedy', ' Drama', ' Mystery']",91,6.3,67,2804
+204,Night Falls on Manhattan,1996,12,"['Crime', ' Drama', ' Thriller']",113,6.6,58,8064
+205,Birds of Paradise,2021,R,['Drama'],113,5.9,57,2425
+206,Everybody's Talking About Jamie,2021,Unrated,"['Biography', ' Comedy', ' Drama']",115,6.5,62,6998
+207,I'm Your Woman,2020,R,"['Crime', ' Drama']",120,6.2,63,9173
+208,Ae Dil Hai Mushkil,2016,AL,"['Drama', ' Music', ' Musical']",158,5.8,40,23710
+209,Shaun het Schaap de film: Het Ruimteschaap,2019,6,"['Animation', ' Adventure', ' Comedy']",86,6.8,79,13951
+210,Sylvie's Love,2020,PG-13,"['Drama', ' Music', ' Romance']",114,6.8,74,5970
+211,Evangelion Shin Gekijôban: Jo,2007,PG-13,"['Animation', ' Action', ' Drama']",98,7.6,66,24554
+212,Het bal der gekken,2021,,"['Drama', ' Thriller']",122,6.6,72,3377
+213,The Single Moms Club,2014,PG-13,"['Comedy', ' Drama']",111,5.4,31,6465
+214,Cut Throat City,2020,16,"['Action', ' Crime', ' Drama']",123,4.9,67,2817
+215,Anything's Possible,2022,16,['Romance'],96,5.4,62,1251
+216,Wonderstruck,2017,6,"['Adventure', ' Drama', ' Mystery']",116,6.2,71,10461
+217,Talaash,2012,12,"['Crime', ' Drama', ' Mystery']",140,7.2,65,42851
+218,Pokémon 2: De Film - Op Eigen Kracht,1999,AL,"['Animation', ' Action', ' Adventure']",84,6,28,22521
+219,Waiting for Anya,2020,,"['Drama', ' Thriller', ' War']",109,6,38,1542
+220,The Mercy,2018,6,"['Adventure', ' Biography', ' Drama']",112,6,60,8762
+221,Lucy and Desi,2022,13+,"['Documentary', ' Biography', ' Comedy']",103,7.8,73,2516
+222,Out in the Dark,2012,12,"['Crime', ' Drama', ' Romance']",96,7.5,69,8627
+223,The Stranger,1946,,"['Crime', ' Drama', ' Film-Noir']",95,7.3,76,26870
+224,Killers Anonymous,2019,R,"['Action', ' Crime', ' Mystery']",95,4.4,22,11641
+225,Evangerion shin gekijôban: Ha,2009,,"['Animation', ' Action', ' Drama']",112,7.9,45,22083
+226,Dhoom:3,2013,6,"['Action', ' Crime', ' Drama']",172,5.3,61,46757
+227,Nana,2022,,"['Drama', ' History']",103,6.7,75,296
+228,Evangelion Shin Gekijôban: Kyu,2012,,"['Animation', ' Action', ' Drama']",96,6.9,45,15912
+229,Generation Wealth,2018,R,['Documentary'],105,6.6,53,5147
+230,Sublet,2020,Unrated,"['Comedy', ' Drama', ' Romance']",89,7,67,2409
+231,I Love America,2022,16,['Comedy'],102,4.7,39,561
+232,Boyz in the Wood,2019,R,"['Comedy', ' Horror', ' Music']",87,6.2,69,7785
+233,De koning en ik,1999,,"['Animation', ' Family', ' Fantasy']",88,4.3,29,4154
+234,Black as Night,2021,16+,"['Drama', ' Horror', ' Thriller']",87,4.4,53,2092
+235,High Hopes,1988,,"['Comedy', ' Drama']",108,7.4,84,5358
+236,Bingo Hell,2021,18,"['Comedy', ' Horror']",85,4.3,55,2378
+237,Evil Eye,2020,,"['Horror', ' Mystery', ' Thriller']",90,4.8,54,3795
+238,Long Strange Trip,2017,R,"['Documentary', ' Biography', ' Music']",238,8.2,78,1730
+239,Crown Heights,2017,R,"['Biography', ' Crime', ' Drama']",94,6.6,64,2669
+240,Time,2020,PG-13,"['Documentary', ' Biography']",81,6.8,91,5992
+241,Test,2013,12,"['Drama', ' History', ' Romance']",89,6.5,70,1652
+242,Sir Alex Ferguson: Never Give In,2021,PG-13,['Documentary'],108,8.1,68,5400
+243,Mirzya,2016,,"['Action', ' Drama', ' Fantasy']",129,4.6,52,1860
+244,Pass Over,2018,,['Drama'],74,6,76,1034
+245,Selah and the Spades,2019,R,['Drama'],97,5,69,1270
+246,Korengal,2014,R,"['Documentary', ' Biography', ' History']",84,6.7,67,3976
+247,Ta Ra Rum Pum,2007,,"['Comedy', ' Drama', ' Family']",153,5.6,49,5031
+248,Nigerian Prince,2018,,"['Crime', ' Drama', ' Thriller']",104,5.9,61,424
+249,¡Viva Maestro!,2022,,['Documentary'],99,7.6,65,53
+250,Justin Bieber: Our World,2021,PG,"['Documentary', ' Music']",94,4.8,46,767
+251,What the Constitution Means to Me,2020,,['Drama'],100,7.4,87,718
+252,The Kids in the Hall: Comedy Punks,2022,,['Documentary'],95,8,78,400
+253,Kaepernick & America,2022,,['Documentary'],82,6.3,66,29
+254,My Name Is Pauli Murray,2021,PG-13,['Documentary'],91,7,73,431
+255,The Boy from Medellín,2020,R,"['Documentary', ' Biography', ' Music']",96,6.2,69,644
+256,All In: The Fight for Democracy,2020,PG-13,['Documentary'],102,6.8,79,1964
+257,Man in the Chair,2007,PG-13,"['Comedy', ' Drama']",107,7,44,1696
+258,Mayor Pete,2021,R,['Documentary'],96,4.9,63,1510
+259,Mary J Blige's My Life,2021,R,['Documentary'],82,6.6,56,586
+260, Small Axe,2020,12,"['Drama', ' History']",127,8,90,5565

@@ -1,0 +1,759 @@
+,movie,year,content_rating,genre,duration_min,imdb_rating,metascore,votes
+0,Disenchanted,2022,PG,"['Animation', ' Adventure', ' Comedy']",119,5.8,50,8571
+1,Barbarian,2022,R,"['Horror', ' Mystery', ' Thriller']",102,7.1,78,84913
+2,Black Panther,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",134,7.3,88,763886
+3,See How They Run,2022,PG-13,"['Comedy', ' Mystery']",98,6.5,60,28482
+4,Enchanted,,PG,"['Animation', ' Adventure', ' Comedy']",107,7.1,75,202415
+5,Thor: Love and Thunder,,PG-13,"['Action', ' Adventure', ' Comedy']",118,6.3,57,311944
+6,Strange World,,PG,"['Animation', ' Action', ' Adventure']",102,5.8,66,903
+7,Home Alone,,PG,"['Comedy', ' Family']",103,7.7,63,566706
+8,Chariots of Fire,,PG,"['Biography', ' Drama', ' Sport']",125,7.1,78,61157
+9,Avatar,,PG-13,"['Action', ' Adventure', ' Fantasy']",162,7.8,83,1246167
+10,The Santa Clause,,PG,"['Comedy', ' Drama', ' Family']",97,6.5,57,117334
+11,Rogue One: A Star Wars Story,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",133,7.8,65,634606
+12,Avengers: Endgame,,PG-13,"['Action', ' Adventure', ' Drama']",181,8.4,78,1119426
+13,Fight Club,,R,['Drama'],139,8.8,66,2109486
+14,Morbius,,PG-13,"['Action', ' Adventure', ' Horror']",104,5.2,35,120193
+15,Doctor Strange in the Multiverse of Madness,,PG-13,"['Action', ' Adventure', ' Fantasy']",126,6.9,60,405398
+16,Titanic,,PG-13,"['Drama', ' Romance']",194,7.9,75,1167589
+17,Prey,,R,"['Action', ' Adventure', ' Drama']",99,7.2,71,184230
+18,Death on the Nile,,PG-13,"['Crime', ' Drama', ' Mystery']",127,6.3,52,145206
+19,The Princess Bride,,PG,"['Adventure', ' Family', ' Fantasy']",98,8,77,427741
+20,Eternals,,PG-13,"['Action', ' Adventure', ' Fantasy']",156,6.3,52,338921
+21,Avengers: Infinity War,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",149,8.4,68,1071709
+22,Willow,,PG,"['Action', ' Adventure', ' Drama']",126,7.2,47,115839
+23,Spider-Man,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",121,7.4,73,815750
+24,Zootopia,,PG,"['Animation', ' Adventure', ' Comedy']",108,8,78,498020
+25,Encanto,,PG,"['Animation', ' Comedy', ' Family']",102,7.2,75,218905
+26,Pinocchio,,PG,"['Adventure', ' Comedy', ' Drama']",105,5.1,38,31593
+27,The Santa Clause 2,,G,"['Comedy', ' Family', ' Fantasy']",104,5.7,48,57784
+28,The King's Man,,R,"['Action', ' Adventure', ' Thriller']",131,6.3,44,145739
+29,Free Guy,,PG-13,"['Action', ' Adventure', ' Comedy']",115,7.1,62,367139
+30,Deadpool,,R,"['Action', ' Adventure', ' Comedy']",108,8,65,1033204
+31,Home Alone 2: Lost in New York,,PG,"['Adventure', ' Comedy', ' Crime']",120,6.8,46,354534
+32,Guardians of the Galaxy,,PG-13,"['Action', ' Adventure', ' Comedy']",121,8,76,1173522
+33,Deadpool 2,,R,"['Action', ' Adventure', ' Comedy']",119,7.7,66,580258
+34,Alien,,R,"['Horror', ' Sci-Fi']",117,8.5,89,879410
+35,Brahmastra Part One: Shiva,,,"['Action', ' Adventure', ' Fantasy']",167,5.6,57,103588
+36,Black Widow,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",134,6.7,67,375709
+37,Guardians of the Galaxy Vol. 2,,PG-13,"['Action', ' Adventure', ' Comedy']",136,7.6,67,678431
+38,The French Dispatch,,R,"['Comedy', ' Drama', ' Romance']",107,7.1,74,120882
+39,The Prestige,,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",130,8.5,66,1326979
+40,Pretty Woman,,R,"['Comedy', ' Romance']",119,7.1,51,326189
+41,Star Wars,,PG,"['Action', ' Adventure', ' Fantasy']",121,8.6,90,1359092
+42,Ford v Ferrari,,PG-13,"['Action', ' Biography', ' Drama']",152,8.1,81,391208
+43,God Forbid,,TV-MA,['Documentary'],109,6.9,65,1200
+44,Hocus Pocus,,PG,"['Comedy', ' Family', ' Fantasy']",96,6.9,43,143098
+45,Gone Girl,,R,"['Drama', ' Mystery', ' Thriller']",149,8.1,79,978512
+46,Black Swan,,R,"['Drama', ' Thriller']",108,8,79,766008
+47,Hocus Pocus 2,,PG,"['Comedy', ' Family', ' Fantasy']",103,6,56,42654
+48,The Avengers,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",143,8,69,1386658
+49,Heat,,R,"['Action', ' Crime', ' Drama']",170,8.3,76,653265
+50,The Princess Diaries,,G,"['Comedy', ' Family', ' Romance']",115,6.3,52,147380
+51,Pirates of the Caribbean: The Curse of the Black Pearl,,PG-13,"['Action', ' Adventure', ' Fantasy']",143,8.1,63,1123763
+52,The Parent Trap,,PG,"['Adventure', ' Comedy', ' Drama']",128,6.6,64,139418
+53,Die Hard,,R,"['Action', ' Thriller']",132,8.2,72,873864
+54,The Big Short,,R,"['Biography', ' Comedy', ' Drama']",130,7.8,81,431119
+55,Iron Man,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",126,7.9,79,1055560
+56,Spider-Man: Into the Spider-Verse,,PG,"['Animation', ' Action', ' Adventure']",117,8.4,87,523862
+57,10 Things I Hate About You,,PG-13,"['Comedy', ' Drama', ' Romance']",97,7.3,70,343575
+58,Captain America: The First Avenger,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",124,6.9,66,843399
+59,Jojo Rabbit,,PG-13,"['Comedy', ' Drama', ' War']",108,7.9,58,387468
+60,Nightmare Alley,,R,"['Crime', ' Drama', ' Thriller']",150,7,70,142301
+61,Rosaline,,PG-13,"['Comedy', ' Romance']",95,6.4,61,5548
+62,The Greatest Showman,,PG,"['Biography', ' Drama', ' Musical']",105,7.5,48,281997
+63,The Lion King,,G,"['Animation', ' Adventure', ' Drama']",88,8.5,88,1053376
+64,Fresh,,R,"['Comedy', ' Horror', ' Thriller']",114,6.7,67,53646
+65,The Shape of Water,,R,"['Drama', ' Fantasy', ' Romance']",123,7.3,87,420026
+66,Shang-Chi and the Legend of the Ten Rings,,PG-13,"['Action', ' Adventure', ' Fantasy']",132,7.4,71,378254
+67,Office Space,,R,['Comedy'],89,7.7,68,268194
+68,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,PG,"['Adventure', ' Family', ' Fantasy']",143,6.9,75,399134
+69,Thor: Ragnarok,,PG-13,"['Action', ' Adventure', ' Comedy']",130,7.9,74,748739
+70,"Three Billboards Outside Ebbing, Missouri",,R,"['Comedy', ' Crime', ' Drama']",115,8.1,88,505514
+71,Captain America: Civil War,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",147,7.8,75,784845
+72,Lightyear,,PG,"['Animation', ' Action', ' Adventure']",100,6,60,101631
+73,Once Upon a Time in America,,R,"['Crime', ' Drama']",229,8.3,75,352027
+74,Cars,,G,"['Animation', ' Adventure', ' Comedy']",117,7.2,73,422146
+75,Star Wars: The Rise Of Skywalker,,PG-13,"['Action', ' Adventure', ' Fantasy']",141,6.5,53,449708
+76,The Last Duel,,R,"['Action', ' Drama', ' History']",152,7.4,67,155240
+77,Coco,,PG,"['Animation', ' Adventure', ' Comedy']",105,8.4,81,504287
+78,Ratatouille,,G,"['Animation', ' Adventure', ' Comedy']",111,8.1,96,733637
+79,The Santa Clause 3: The Escape Clause,,G,"['Adventure', ' Comedy', ' Family']",92,4.8,32,38192
+80,Logan,,R,"['Action', ' Drama', ' Sci-Fi']",137,8.1,77,760116
+81,Venom,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",112,6.6,35,484114
+82,The Revenant,,R,"['Action', ' Adventure', ' Drama']",156,8,76,801310
+83,The Sixth Sense,,PG-13,"['Drama', ' Mystery', ' Thriller']",107,8.2,64,989995
+84,Frozen,,PG,"['Animation', ' Adventure', ' Comedy']",102,7.4,75,624195
+85,Beauty and the Beast,,PG,"['Adventure', ' Family', ' Fantasy']",129,7.1,65,309588
+86,Thor,,PG-13,"['Action', ' Adventure', ' Fantasy']",115,7,57,848110
+87,Hamilton,,PG-13,"['Biography', ' Drama', ' History']",160,8.4,90,94305
+88,Cruella,,PG-13,"['Adventure', ' Comedy', ' Crime']",134,7.3,59,233496
+89,Dead Poets Society,,PG,"['Comedy', ' Drama']",128,8.1,79,489831
+90,Cinderella,,PG,"['Adventure', ' Drama', ' Family']",105,6.9,67,178282
+91,West Side Story,,PG-13,"['Crime', ' Drama', ' Musical']",156,7.2,85,82695
+92,Spider-Man: Homecoming,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",133,7.4,73,654235
+93,Bohemian Rhapsody,,PG-13,"['Biography', ' Drama', ' Music']",134,7.9,49,537332
+94,Moana,,PG,"['Animation', ' Adventure', ' Comedy']",107,7.6,81,335717
+95,Fire of Love,,PG,['Documentary'],98,7.7,83,3109
+96,Red Sparrow,,R,"['Action', ' Drama', ' Thriller']",140,6.6,53,187154
+97,Avengers: Age of Ultron,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",141,7.3,66,860950
+98,500 Days of Summer,,PG-13,"['Comedy', ' Drama', ' Romance']",95,7.7,76,516149
+99,Mrs. Doubtfire,,PG-13,"['Comedy', ' Drama']",125,7.1,53,269166
+100,Dodgeball: A True Underdog Story,,PG-13,"['Comedy', ' Sport']",92,6.7,55,251113
+101,Star Wars: Episode I - The Phantom Menace,,PG,"['Action', ' Adventure', ' Fantasy']",136,6.5,51,804339
+102,Toy Story,,G,"['Animation', ' Adventure', ' Comedy']",81,8.3,95,990210
+103,X-Men,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",104,7.3,64,616375
+104,Star Wars: Episode VII - The Force Awakens,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",138,7.8,80,928783
+105,The Sound of Music,,G,"['Biography', ' Drama', ' Family']",172,8.1,63,234842
+106,Captain Marvel,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",123,6.8,64,558565
+107,The Rocky Horror Picture Show,,R,"['Comedy', ' Horror', ' Musical']",100,7.4,65,154014
+108,Inside Out,,PG,"['Animation', ' Adventure', ' Comedy']",95,8.2,94,710960
+109,Hidden Figures,,PG,"['Biography', ' Drama', ' History']",127,7.8,74,230542
+110,X-Men: Apocalypse,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",144,6.9,52,435839
+111,The Help,,PG-13,['Drama'],146,8.1,62,459446
+112,Edward Scissorhands,,PG-13,"['Drama', ' Fantasy', ' Romance']",105,7.9,74,491503
+113,A Time to Kill,,R,"['Crime', ' Drama', ' Thriller']",149,7.5,54,162209
+114,Doctor Strange,,PG-13,"['Action', ' Adventure', ' Fantasy']",115,7.5,72,740059
+115,Alita: Battle Angel,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",122,7.3,53,268052
+116,Sweet Home Alabama,,PG-13,"['Comedy', ' Romance']",108,6.2,45,114850
+117,Little Miss Sunshine,,R,"['Comedy', ' Drama']",101,7.8,80,481893
+118,Turning Red,,PG,"['Animation', ' Adventure', ' Comedy']",100,7,83,119073
+119,Moulin Rouge!,,PG-13,"['Drama', ' Musical', ' Romance']",127,7.6,66,286131
+120,Freaky Friday,,PG,"['Comedy', ' Family', ' Fantasy']",97,6.3,70,140229
+121,Father of the Bride,,PG,"['Comedy', ' Family', ' Romance']",105,6.5,51,78042
+122,Spider-Man: Far from Home,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",129,7.4,69,489892
+123,Bedazzled,,PG-13,"['Comedy', ' Fantasy']",93,6.1,49,105467
+124,Venom: Let There Be Carnage,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",97,5.9,49,222930
+125,Spider-Man 3,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",139,6.3,59,590486
+126,Fantastic Mr. Fox,,PG,"['Animation', ' Adventure', ' Comedy']",87,7.9,83,232844
+127,WALL路E,,G,"['Animation', ' Adventure', ' Family']",98,8.4,95,1111584
+128,True Lies,,R,"['Action', ' Comedy', ' Thriller']",141,7.3,63,260076
+129,Bridge to Terabithia,,PG,"['Drama', ' Family', ' Fantasy']",96,7.2,74,158700
+130,Unfaithful,,R,"['Drama', ' Romance', ' Thriller']",124,6.7,63,90604
+131,Star Wars: Episode V - The Empire Strikes Back,,PG,"['Action', ' Adventure', ' Fantasy']",124,8.7,82,1286521
+132,Pirates of the Caribbean: Dead Men Tell No Tales,,PG-13,"['Action', ' Adventure', ' Fantasy']",129,6.5,39,312276
+133,L.A. Confidential,,R,"['Crime', ' Drama', ' Mystery']",138,8.2,90,582916
+134,Captain America: The Winter Soldier,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",136,7.8,70,843478
+135,Independence Day,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",145,7,59,576011
+136,"Monsters, Inc.",,G,"['Animation', ' Adventure', ' Comedy']",92,8.1,79,906357
+137,Am茅lie,,R,"['Comedy', ' Romance']",122,8.3,69,755784
+138,The Incredibles,,PG,"['Animation', ' Action', ' Adventure']",115,8,90,735303
+139,In Time,,PG-13,"['Action', ' Sci-Fi', ' Thriller']",109,6.7,53,412632
+140,Jungle Cruise,,PG-13,"['Action', ' Adventure', ' Comedy']",127,6.6,50,188435
+141,Star Wars: Episode VI - Return of the Jedi,,PG,"['Action', ' Adventure', ' Fantasy']",131,8.3,58,1050132
+142,The New Mutants,,PG-13,"['Action', ' Horror', ' Mystery']",94,5.3,43,80177
+143,Birdman or (The Unexpected Virtue of Ignorance),,R,"['Comedy', ' Drama']",119,7.7,87,629727
+144,Spider-Man 2,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",127,7.4,83,652365
+145,Star Wars: Episode VIII - The Last Jedi,,PG-13,"['Action', ' Adventure', ' Fantasy']",152,6.9,84,630478
+146,The Princess Diaries 2: Royal Engagement,,G,"['Comedy', ' Family', ' Romance']",113,5.8,43,82265
+147,Tangled,,PG,"['Animation', ' Adventure', ' Comedy']",100,7.7,71,453576
+148,Star Wars: Episode III - Revenge of the Sith,,PG-13,"['Action', ' Adventure', ' Fantasy']",140,7.6,68,790228
+149,Up,,PG,"['Animation', ' Adventure', ' Comedy']",96,8.3,88,1040200
+150,Remember the Titans,,PG,"['Biography', ' Drama', ' Sport']",113,7.8,48,216672
+151,The Amazing Spider-Man,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",136,6.9,66,655867
+152,Alice in Wonderland,,PG,"['Adventure', ' Family', ' Fantasy']",108,6.4,53,415921
+153,Ant-Man,,PG-13,"['Action', ' Adventure', ' Comedy']",117,7.3,64,665019
+154,Finding Nemo,,G,"['Animation', ' Adventure', ' Comedy']",100,8.2,90,1040578
+155,Disobedience,,R,"['Drama', ' Romance']",114,6.6,74,31770
+156,Hercules,,G,"['Animation', ' Adventure', ' Comedy']",93,7.3,74,232589
+157,Glass,,PG-13,"['Drama', ' Horror', ' Sci-Fi']",129,6.6,43,244020
+158,Ant-Man and the Wasp,,PG-13,"['Action', ' Adventure', ' Comedy']",118,7,70,401270
+159,Percy Jackson & the Olympians: The Lightning Thief,,PG,"['Adventure', ' Family', ' Fantasy']",118,5.8,47,190108
+160,Underwater,,PG-13,"['Action', ' Horror', ' Sci-Fi']",95,5.8,48,83427
+161,Holes,,PG,"['Adventure', ' Comedy', ' Drama']",117,7,71,90394
+162,Bad Times at the El Royale,,R,"['Crime', ' Drama', ' Mystery']",141,7.1,60,151148
+163,The Little Mermaid,,G,"['Animation', ' Adventure', ' Comedy']",83,7.6,88,264299
+164,Soul,,PG,"['Animation', ' Adventure', ' Comedy']",100,8,83,327942
+165,A Christmas Carol,,PG,"['Animation', ' Adventure', ' Comedy']",96,6.8,55,116219
+166,Juno,,PG-13,"['Comedy', ' Drama']",96,7.5,81,523606
+167,John Carter,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",132,6.6,51,273992
+168,Iron Man 2,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",124,6.9,57,815771
+169,Pearl Harbor,,PG-13,"['Action', ' Drama', ' History']",183,6.2,44,333867
+170,Iron Man Three,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",130,7.1,62,848215
+171,Can't Buy Me Love,,PG-13,"['Comedy', ' Drama', ' Romance']",94,6.7,36,38375
+172,Toy Story 4,,G,"['Animation', ' Adventure', ' Comedy']",100,7.7,84,250585
+173,Mr. & Mrs. Smith,,PG-13,"['Action', ' Comedy', ' Crime']",120,6.5,55,497839
+174,Solo: A Star Wars Story,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",135,6.9,62,346819
+175,The Proposal,,PG-13,"['Comedy', ' Drama', ' Romance']",108,6.7,48,329467
+176,Gifted,,PG-13,['Drama'],101,7.6,60,117691
+177,Aladdin,,G,"['Animation', ' Adventure', ' Comedy']",90,8,86,419556
+178,X: First Class,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",131,7.7,65,693153
+179,Alien: Covenant,,R,"['Horror', ' Sci-Fi', ' Thriller']",122,6.4,65,282570
+180,Mary Poppins,,G,"['Comedy', ' Family', ' Fantasy']",139,7.8,88,173565
+181,Terminator: Dark Fate,,R,"['Action', ' Adventure', ' Sci-Fi']",128,6.2,54,178405
+182,Natural Born Killers,,R,"['Action', ' Crime', ' Drama']",119,7.2,74,236528
+183,The Night House,,R,"['Horror', ' Mystery', ' Thriller']",107,6.5,68,53741
+184,TRON: Legacy,,PG,"['Action', ' Adventure', ' Sci-Fi']",125,6.8,49,338379
+185,The Day After Tomorrow,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",124,6.4,47,449456
+186,X-Men: Days of Future Past,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",132,7.9,75,712642
+187,The Princess,,R,"['Action', ' Drama', ' Fantasy']",94,5.6,43,12697
+188,Ad Astra,,PG-13,"['Adventure', ' Drama', ' Mystery']",123,6.5,80,235976
+189,Raya and the Last Dragon,,PG,"['Animation', ' Action', ' Adventure']",107,7.3,74,151273
+190,Luca,,PG,"['Animation', ' Adventure', ' Comedy']",95,7.4,71,162332
+191,Night at the Museum,,PG,"['Adventure', ' Comedy', ' Family']",108,6.4,48,349159
+192,The Sandlot,,PG,"['Comedy', ' Drama', ' Family']",101,7.8,55,93216
+193,Speed,,R,"['Action', ' Adventure', ' Thriller']",116,7.3,78,365123
+194,Into the Woods,,PG,"['Adventure', ' Comedy', ' Drama']",125,5.9,69,142178
+195,George of the Jungle,,PG,"['Action', ' Adventure', ' Comedy']",92,5.5,53,78954
+196,Big,,PG,"['Comedy', ' Drama', ' Fantasy']",104,7.3,73,222126
+197,Pirates of the Caribbean: On Stranger Tides,,PG-13,"['Action', ' Adventure', ' Fantasy']",136,6.6,45,528702
+198,Pirates of the Caribbean: Dead Man's Chest,,PG-13,"['Action', ' Adventure', ' Fantasy']",151,7.3,53,718999
+199,The Mighty Ducks,,PG,"['Comedy', ' Drama', ' Family']",104,6.5,46,67202
+200,Slumdog Millionaire,,R,"['Crime', ' Drama', ' Romance']",120,8,84,844921
+201,The Princess and the Frog,,G,"['Animation', ' Adventure', ' Comedy']",97,7.1,73,146489
+202,X-Men: The Last Stand,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",104,6.6,58,518030
+203,Brazil,,R,"['Drama', ' Sci-Fi']",132,7.9,84,201629
+204,Diary of a Wimpy Kid,,PG,"['Comedy', ' Drama', ' Family']",94,6.2,56,51876
+205,Breaking Away,,PG,"['Comedy', ' Drama', ' Sport']",101,7.7,91,24069
+206,Ice Age,,PG,"['Animation', ' Adventure', ' Comedy']",81,7.5,61,483470
+207,X-Men Origins: Wolverine,,PG-13,"['Action', ' Sci-Fi']",107,6.5,40,506169
+208,Star Wars: Episode II - Attack of the Clones,,PG,"['Action', ' Adventure', ' Fantasy']",142,6.6,54,710262
+209,Who Framed Roger Rabbit,,PG,"['Animation', ' Adventure', ' Comedy']",104,7.7,83,202440
+210,The Amazing Spider-Man 2,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",142,6.6,53,498244
+211,Splash,,PG,"['Comedy', ' Fantasy', ' Romance']",111,6.3,71,78001
+212,Deck the Halls,,PG,"['Comedy', ' Family']",93,5,28,28432
+213,Thor: The Dark World,,PG-13,"['Action', ' Adventure', ' Fantasy']",112,6.8,54,682581
+214,A Bug's Life,,G,"['Animation', ' Adventure', ' Comedy']",95,7.2,77,293988
+215,Anastasia,,G,"['Animation', ' Adventure', ' Drama']",94,7.1,61,125052
+216,Mulan,,PG-13,"['Action', ' Adventure', ' Drama']",115,5.7,66,148516
+217,Maleficent,,PG,"['Adventure', ' Family', ' Fantasy']",97,6.9,56,376663
+218,Hot Tub Time Machine,,R,"['Comedy', ' Sci-Fi']",101,6.4,63,176433
+219,While You Were Sleeping,,PG,"['Comedy', ' Drama', ' Romance']",103,6.7,67,104167
+220,A Cure for Wellness,,R,"['Drama', ' Fantasy', ' Horror']",146,6.4,47,99942
+221,A Goofy Movie,,G,"['Animation', ' Adventure', ' Comedy']",78,6.9,53,55764
+222,Frozen II,,PG,"['Animation', ' Adventure', ' Comedy']",103,6.8,64,172730
+223,Big Trouble in Little China,,PG-13,"['Action', ' Adventure', ' Comedy']",99,7.2,53,141982
+224,Coyote Ugly,,PG-13,"['Comedy', ' Drama', ' Music']",100,5.7,27,115993
+225,X-Men: Dark Phoenix,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",113,5.7,43,187978
+226,Sky High,,PG,"['Action', ' Comedy', ' Family']",100,6.3,62,88263
+227,Miss Peregrine's Home for Peculiar Children,,PG-13,"['Adventure', ' Drama', ' Family']",127,6.7,57,173986
+228,X2: X-Men United,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",134,7.4,68,551286
+229,The Fountain,,PG-13,"['Drama', ' Mystery', ' Romance']",97,7.2,51,239996
+230,Ever After: A Cinderella Story,,PG-13,"['Comedy', ' Drama', ' Romance']",121,7.1,66,76503
+231,Return to Oz,,PG,"['Adventure', ' Family', ' Fantasy']",113,6.7,42,27975
+232,National Treasure,,PG,"['Action', ' Adventure', ' Mystery']",131,6.9,40,333895
+233,Nomadland,,R,['Drama'],107,7.3,92,160934
+234,Bruce Almighty,,PG-13,"['Comedy', ' Fantasy']",101,6.8,46,404948
+235,Atlantis: The Lost Empire,,PG,"['Animation', ' Action', ' Adventure']",95,6.9,52,121213
+236,The Emperor's New Groove,,G,"['Animation', ' Adventure', ' Comedy']",78,7.4,70,205254
+237,Antlers,,R,"['Drama', ' Horror', ' Mystery']",99,5.9,57,38415
+238,The Fault in Our Stars,,PG-13,"['Drama', ' Romance']",126,7.7,69,377752
+239,Encino Man,,PG,['Comedy'],88,5.8,25,41287
+240,Miracle on 34th Street,,Not Rated,"['Comedy', ' Drama', ' Family']",96,7.9,88,48055
+241,Life of Pi,,PG,"['Adventure', ' Drama', ' Fantasy']",127,7.9,79,630134
+242,Noah,,PG-13,"['Action', ' Adventure', ' Drama']",138,5.8,68,256065
+243,Jingle All the Way,,PG,"['Adventure', ' Comedy', ' Family']",89,5.7,34,104723
+244,"Honey, I Shrunk the Kids",,PG,"['Adventure', ' Comedy', ' Family']",93,6.4,63,156042
+245,Paddington 2,,PG,"['Adventure', ' Comedy', ' Family']",103,7.8,88,79438
+246,Toy Story 3,,G,"['Animation', ' Adventure', ' Comedy']",103,8.3,92,833954
+247,Not Okay,,R,"['Comedy', ' Drama']",100,6,62,14423
+248,Pirates of the Caribbean: At World's End,,PG-13,"['Action', ' Adventure', ' Fantasy']",169,7.1,50,651761
+249,Sister Act,,PG,"['Comedy', ' Family', ' Music']",100,6.5,51,100184
+250,Brave,,PG,"['Animation', ' Adventure', ' Comedy']",93,7.1,69,412397
+251,M*A*S*H,,R,"['Comedy', ' Drama', ' War']",116,7.4,80,73706
+252,The Family Stone,,PG-13,"['Comedy', ' Drama', ' Romance']",103,6.3,56,68474
+253,Incredibles 2,,PG,"['Animation', ' Action', ' Adventure']",118,7.6,80,297047
+254,Rio,,G,"['Animation', ' Adventure', ' Comedy']",96,6.9,63,228996
+255,Big Hero 6,,PG,"['Animation', ' Action', ' Adventure']",102,7.8,74,461663
+256,Sister Act 2: Back in the Habit,,PG,"['Comedy', ' Family', ' Music']",107,5.6,38,54696
+257,Noelle,,G,"['Adventure', ' Comedy', ' Family']",100,6.3,48,21811
+258,Adventures in Babysitting,,PG-13,"['Adventure', ' Comedy', ' Crime']",102,6.9,45,45070
+259,Treasure Planet,,PG,"['Animation', ' Adventure', ' Family']",95,7.2,60,119741
+260,Wreck-It Ralph,,PG,"['Animation', ' Adventure', ' Comedy']",101,7.7,72,423307
+261,Fantastic Four,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",100,4.3,27,168117
+262,The Beach,,R,"['Adventure', ' Drama', ' Romance']",119,6.6,43,240510
+263,Chip 'n Dale: Rescue Rangers,,PG,"['Animation', ' Adventure', ' Comedy']",97,7,66,39809
+264,Paddington,,PG,"['Adventure', ' Comedy', ' Family']",95,7.3,77,117667
+265,Ghost Rider,,PG-13,"['Action', ' Fantasy', ' Thriller']",110,5.2,35,240552
+266,The Wolverine,,PG-13,"['Action', ' Sci-Fi']",126,6.7,61,467948
+267,High Fidelity,,R,"['Comedy', ' Drama', ' Music']",113,7.4,79,181325
+268,The Art of Racing in the Rain,,PG,"['Comedy', ' Drama', ' Romance']",109,7.5,43,32139
+269,Alvin and the Chipmunks,,PG,"['Animation', ' Adventure', ' Comedy']",92,5.2,39,86751
+270,Lilo & Stitch,,PG,"['Animation', ' Adventure', ' Comedy']",85,7.3,73,192019
+271,Daredevil,,PG-13,"['Action', ' Crime']",103,5.3,42,221046
+272,Three Men and a Baby,,PG,"['Comedy', ' Drama', ' Family']",102,6.1,61,54282
+273,Borat,,R,['Comedy'],84,7.3,89,410431
+274,King Arthur,,PG-13,"['Action', ' Adventure', ' Drama']",126,6.3,46,169129
+275,Robots,,PG,"['Animation', ' Adventure', ' Comedy']",91,6.4,64,148744
+276,The Guardian,,PG-13,"['Action', ' Adventure', ' Drama']",139,6.9,53,93814
+277,JFK,,R,"['Drama', ' History', ' Thriller']",189,8,72,157030
+278,Isle of Dogs,,PG-13,"['Animation', ' Adventure', ' Comedy']",101,7.8,82,169462
+279,The Book of Life,,PG,"['Animation', ' Adventure', ' Comedy']",95,7.2,67,72293
+280,Epic Movie,,PG-13,"['Adventure', ' Comedy', ' Fantasy']",86,2.4,17,106155
+281,The Chronicles of Narnia: Prince Caspian,,PG,"['Action', ' Adventure', ' Family']",150,6.5,62,211852
+282,No Exit,,R,"['Drama', ' Mystery', ' Thriller']",95,6.1,54,24872
+283,The Internship,,PG-13,['Comedy'],119,6.3,42,205536
+284,Toy Story 2,,G,"['Animation', ' Adventure', ' Comedy']",92,7.9,88,580768
+285,Enemy at the Gates,,R,"['Action', ' Drama', ' War']",131,7.6,53,263598
+286,Aquamarine,,PG,"['Comedy', ' Family', ' Fantasy']",110,5.3,51,42677
+287,Meet the Robinsons,,G,"['Animation', ' Adventure', ' Comedy']",95,6.8,61,101372
+288,Assassin's Creed,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",115,5.6,36,199983
+289,Monsters University,,G,"['Animation', ' Adventure', ' Comedy']",104,7.2,65,360629
+290,Alien鲁,,R,"['Action', ' Horror', ' Sci-Fi']",114,6.4,59,301512
+291,Tarzan,,G,"['Animation', ' Adventure', ' Comedy']",88,7.3,79,227650
+292,Pocahontas,,G,"['Animation', ' Adventure', ' Drama']",81,6.7,58,188497
+293,Robin Hood: Men in Tights,,PG-13,"['Adventure', ' Comedy', ' Musical']",104,6.7,44,127606
+294,Home Sweet Home Alone,,PG,"['Comedy', ' Crime', ' Family']",93,3.6,35,17042
+295,What Lies Beneath,,PG-13,"['Drama', ' Horror', ' Mystery']",130,6.6,51,127709
+296,The Transporter,,PG-13,"['Action', ' Crime', ' Thriller']",92,6.8,51,304936
+297,Alien: Resurrection,,R,"['Action', ' Horror', ' Sci-Fi']",109,6.2,63,248953
+298,The Hunchback of Notre Dame,,G,"['Animation', ' Drama', ' Family']",91,7,74,158845
+299,"I, Robot",,PG-13,"['Action', ' Mystery', ' Sci-Fi']",115,7.1,59,541150
+300,Ferdinand,,PG,"['Animation', ' Adventure', ' Comedy']",108,6.7,58,57991
+301,The Pacifier,,PG,"['Action', ' Comedy', ' Drama']",95,5.6,30,95349
+302,Fright Night,,R,"['Comedy', ' Horror']",106,6.4,64,108051
+303,Tomorrowland,,PG,"['Action', ' Adventure', ' Family']",130,6.4,60,183431
+304,Newsies,,PG,"['Drama', ' Family', ' History']",121,6.9,46,21174
+305,Cars 3,,G,"['Animation', ' Adventure', ' Comedy']",102,6.7,59,101211
+306,Cars 2,,G,"['Animation', ' Adventure', ' Comedy']",106,6.2,57,191511
+307,The Muppet Christmas Carol,,G,"['Comedy', ' Drama', ' Family']",85,7.7,64,58803
+308,The Three Musketeers,,PG,"['Action', ' Adventure', ' Comedy']",105,6.3,43,55699
+309,Transporter 2,,PG-13,"['Action', ' Crime', ' Thriller']",87,6.3,56,204396
+310,Percy Jackson: Sea of Monsters,,PG,"['Adventure', ' Family', ' Fantasy']",106,5.7,39,119152
+311,Tinker Tailor Soldier Spy,,R,"['Drama', ' Mystery', ' Thriller']",127,7,85,202754
+312,The Nutcracker and the Four Realms,,PG,"['Adventure', ' Family', ' Fantasy']",99,5.5,39,33819
+313,The Descendants,,R,"['Comedy', ' Drama']",115,7.3,84,242906
+314,Die Hard 2,,R,"['Action', ' Thriller']",124,7.1,67,362462
+315,Night at the Museum: Battle of the Smithsonian,,PG,"['Adventure', ' Comedy', ' Family']",105,6,42,197833
+316,Cheaper by the Dozen,,PG,"['Comedy', ' Family']",98,5.9,46,103106
+317,The Jungle Book,,G,"['Animation', ' Adventure', ' Comedy']",78,7.6,65,184032
+318,We Bought a Zoo,,PG,"['Comedy', ' Drama', ' Family']",124,7.1,58,144580
+319,Die Hard with a Vengeance,,R,"['Action', ' Adventure', ' Thriller']",128,7.6,58,388189
+320,Snow White and the Seven Dwarfs,,Approved,"['Animation', ' Adventure', ' Family']",83,7.6,95,200457
+321,Shutter,,PG-13,"['Horror', ' Mystery', ' Thriller']",85,5.2,37,34827
+322,Ralph Breaks the Internet,,PG,"['Animation', ' Adventure', ' Comedy']",112,7,71,161842
+323,Bolt,,PG,"['Animation', ' Adventure', ' Comedy']",96,6.8,67,212269
+324,The King of Comedy,,PG,"['Comedy', ' Crime', ' Drama']",109,7.8,73,104737
+325,Under the Tuscan Sun,,PG-13,"['Comedy', ' Drama', ' Romance']",113,6.7,52,53676
+326,Robin Hood,,G,"['Animation', ' Adventure', ' Comedy']",83,7.5,57,128431
+327,The Rocketeer,,PG,"['Action', ' Adventure', ' Family']",108,6.5,61,58487
+328,"Dude, Where's My Car?",,PG-13,"['Comedy', ' Mystery', ' Sci-Fi']",83,5.5,30,140820
+329,Independence Day: Resurgence,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",120,5.2,32,180537
+330,127 Hours,,R,"['Biography', ' Drama']",94,7.6,82,377900
+331,Chicken Run,,G,"['Animation', ' Adventure', ' Comedy']",84,7.1,88,193470
+332,The Great Beauty,,Not Rated,['Drama'],141,7.7,86,91472
+333,Color of Night,,R,"['Drama', ' Mystery', ' Romance']",121,5.2,36,24427
+334,Fire Island,,R,"['Comedy', ' Romance']",105,6.7,72,9977
+335,The Heat,,R,"['Action', ' Comedy', ' Crime']",117,6.6,60,173423
+336,Onward,,PG,"['Animation', ' Adventure', ' Comedy']",102,7.4,61,149595
+337,A Hidden Life,,PG-13,"['Biography', ' Drama', ' Romance']",174,7.4,78,24728
+338,Finding Dory,,PG,"['Animation', ' Adventure', ' Comedy']",97,7.3,77,276858
+339,101 Dalmatians,,G,"['Adventure', ' Comedy', ' Crime']",103,5.7,49,112004
+340,TRON,,PG,"['Action', ' Adventure', ' Sci-Fi']",96,6.7,58,122540
+341,Wild,,R,"['Adventure', ' Biography', ' Drama']",115,7.1,74,130083
+342,Woman Walks Ahead,,R,"['Biography', ' Drama', ' History']",101,6.6,51,7454
+343,James and the Giant Peach,,PG,"['Animation', ' Adventure', ' Family']",79,6.7,78,68596
+344,Hot Shots!,,PG-13,"['Action', ' Comedy']",84,6.7,61,109471
+345,Live Free or Die Hard,,PG-13,"['Action', ' Thriller']",128,7.1,69,406953
+346,Shallow Hal,,PG-13,"['Comedy', ' Drama', ' Fantasy']",114,6,48,135377
+347,Dinosaur,,PG,"['Animation', ' Adventure', ' Drama']",82,6.4,56,61656
+348,Night at the Museum: Secret of the Tomb,,PG,"['Adventure', ' Comedy', ' Family']",98,6.2,47,123527
+349,Great Expectations,,R,"['Drama', ' Romance']",111,6.8,55,54281
+350,The Full Monty,,R,"['Comedy', ' Drama']",91,7.2,75,107283
+351,Meet the Spartans,,PG-13,"['Comedy', ' Fantasy']",87,2.8,9,108495
+352,Under Siege,,R,"['Action', ' Thriller']",103,6.5,58,88185
+353,The Guernsey Literary and Potato Peel Pie Society,,TV-14,"['Drama', ' Romance', ' War']",124,7.3,65,47261
+354,Taps,,PG,['Drama'],126,6.7,49,18882
+355,Pride,,R,"['Biography', ' Comedy', ' Drama']",119,7.8,79,57874
+356,The Spectacular Now,,R,"['Drama', ' Romance']",95,7.1,82,154826
+357,Paranormal Activity: Next of Kin,,R,"['Horror', ' Mystery', ' Thriller']",98,5.2,37,12685
+358,"Good Morning, Vietnam",,R,"['Biography', ' Comedy', ' Drama']",121,7.3,67,142467
+359,Never Been Kissed,,PG-13,"['Comedy', ' Drama', ' Romance']",107,6,60,91738
+360,Alvin and the Chipmunks: The Squeakquel,,PG,"['Animation', ' Adventure', ' Comedy']",88,4.5,41,49861
+361,The BFG,,PG,"['Adventure', ' Family', ' Fantasy']",117,6.3,66,86785
+362,Me and Earl and the Dying Girl,,PG-13,"['Comedy', ' Drama', ' Romance']",105,7.7,74,132582
+363,Buffy the Vampire Slayer,,PG-13,"['Action', ' Comedy', ' Fantasy']",86,5.6,48,45650
+364,Sleeping Beauty,,G,"['Animation', ' Adventure', ' Family']",75,7.2,85,150020
+365,Crush,,TV-MA,"['Comedy', ' Romance']",93,6.3,56,6699
+366,Ron's Gone Wrong,,PG,"['Animation', ' Adventure', ' Comedy']",107,7,65,34086
+367,Cool Runnings,,PG,"['Adventure', ' Comedy', ' Family']",98,7,60,105142
+368,Flight of the Navigator,,PG,"['Adventure', ' Comedy', ' Family']",90,6.9,64,48850
+369,The Good Dinosaur,,PG,"['Animation', ' Adventure', ' Comedy']",93,6.7,66,116717
+370,Alice Through the Looking Glass,,PG,"['Adventure', ' Family', ' Fantasy']",113,6.2,34,109983
+371,Knight and Day,,PG-13,"['Action', ' Adventure', ' Comedy']",109,6.3,46,197431
+372,Demolition,,R,"['Comedy', ' Drama']",101,7,49,100826
+373,Bicentennial Man,,PG,"['Drama', ' Sci-Fi']",132,6.9,42,118374
+374,Monte Carlo,,PG,"['Adventure', ' Comedy', ' Family']",109,5.8,43,45559
+375,Under Siege 2: Dark Territory,,R,"['Action', ' Adventure', ' Thriller']",100,5.5,52,47419
+376,Bend It Like Beckham,,PG-13,"['Comedy', ' Drama', ' Romance']",112,6.7,66,111419
+377,The AristoCats,,G,"['Animation', ' Adventure', ' Comedy']",78,7.1,66,105240
+378,Where the Heart Is,,PG-13,"['Comedy', ' Drama', ' Romance']",120,6.7,30,34620
+379,Peter Pan,,G,"['Animation', ' Adventure', ' Family']",77,7.3,76,141124
+380,Need for Speed,,PG-13,"['Action', ' Thriller']",132,6.4,39,171870
+381,"Me, Myself & Irene",,R,['Comedy'],116,6.6,49,238996
+382,27 Dresses,,PG-13,"['Comedy', ' Romance']",111,6.1,47,165725
+383,The Valet,,PG-13,"['Comedy', ' Drama', ' Romance']",124,6.7,62,13024
+384,Brother Bear,,G,"['Animation', ' Adventure', ' Comedy']",85,6.8,48,112001
+385,Father of the Bride Part II,,PG,"['Comedy', ' Family', ' Romance']",106,6,49,38907
+386,The Bob's Burgers Movie,,PG-13,"['Animation', ' Adventure', ' Comedy']",102,7,75,16942
+387,The Lone Ranger,,PG-13,"['Action', ' Adventure', ' Western']",150,6.4,37,235753
+388,Runaway Jury,,PG-13,"['Crime', ' Drama', ' Thriller']",127,7.1,61,98312
+389,Horton Hears a Who!,,G,"['Animation', ' Adventure', ' Comedy']",86,6.8,71,141678
+390,Just My Luck,,PG-13,"['Comedy', ' Fantasy', ' Romance']",103,5.4,29,57913
+391,Saving Mr. Banks,,PG-13,"['Biography', ' Comedy', ' Drama']",125,7.5,65,162920
+392,Titan A.E.,,PG,"['Animation', ' Action', ' Adventure']",94,6.6,48,61721
+393,Bedtime Stories,,PG,"['Adventure', ' Comedy', ' Family']",99,6,33,96071
+394,Elektra,,PG-13,"['Action', ' Adventure', ' Crime']",97,4.7,34,93749
+395,Togo,,PG,"['Adventure', ' Biography', ' Drama']",113,7.9,69,49384
+396,Broken Arrow,,R,"['Action', ' Adventure', ' Thriller']",108,6.1,61,99656
+397,Philomena,,PG-13,"['Biography', ' Comedy', ' Drama']",98,7.6,77,100598
+398,Notes on a Scandal,,R,"['Crime', ' Drama', ' Romance']",92,7.4,73,79664
+399,Eragon,,PG,"['Action', ' Adventure', ' Family']",104,5.1,38,127076
+400,A Wrinkle in Time,,PG,"['Adventure', ' Family', ' Fantasy']",109,4.2,53,45364
+401,Diary of a Wimpy Kid: Dog Days,,PG,"['Comedy', ' Family']",94,6.3,54,26546
+402,Calvary,,R,"['Crime', ' Drama', ' Mystery']",102,7.4,77,59999
+403,Dragonball Evolution,,PG,"['Action', ' Adventure', ' Fantasy']",85,2.6,45,75120
+404,Ice Age: Collision Course,,PG,"['Animation', ' Adventure', ' Comedy']",94,5.6,34,67597
+405,The Last Song,,PG,"['Drama', ' Music', ' Romance']",107,6,33,88341
+406,The Game Plan,,PG,"['Comedy', ' Family', ' Sport']",110,6.1,44,67175
+407,National Treasure: Book of Secrets,,PG,"['Action', ' Adventure', ' Mystery']",124,6.5,48,238875
+408,The Three Stooges,,PG,"['Comedy', ' Family']",92,5.1,56,31946
+409,Romy and Michele's High School Reunion,,R,['Comedy'],92,6.3,59,48837
+410,The Aftermath,,R,"['Drama', ' Romance', ' War']",108,6.3,43,21533
+411,Spies in Disguise,,PG,"['Animation', ' Action', ' Adventure']",102,6.8,54,49796
+412,Herbie Fully Loaded,,G,"['Adventure', ' Comedy', ' Family']",101,4.9,47,48386
+413,Runaway Bride,,PG,"['Comedy', ' Romance']",116,5.6,39,99494
+414,The Gods Must Be Crazy,,PG,"['Adventure', ' Comedy']",109,7.3,73,56670
+415,Godmothered,,PG,"['Comedy', ' Drama', ' Family']",110,6.1,49,12642
+416,Mighty Morphin Power Rangers,,PG,"['Action', ' Adventure', ' Family']",95,5.2,40,27866
+417,The Artist,,PG-13,"['Comedy', ' Drama', ' Romance']",100,7.9,89,241967
+418,Mickey: The Story of a Mouse,,TV-G,"['Documentary', ' Biography']",89,7,66,268
+419,One Hundred and One Dalmatians,,G,"['Animation', ' Adventure', ' Comedy']",79,7.3,83,169156
+420,Big Momma's House,,PG-13,"['Action', ' Comedy', ' Crime']",99,5.2,33,86377
+421,Garfield,,PG,"['Animation', ' Adventure', ' Comedy']",80,5,27,87548
+422,"I Love You, Beth Cooper",,PG-13,"['Comedy', ' Romance']",102,5.3,32,35742
+423,Ghost Rider: Spirit of Vengeance,,PG-13,"['Action', ' Fantasy', ' Thriller']",96,4.3,34,120427
+424,Dangerous Minds,,R,"['Biography', ' Drama']",99,6.5,47,53644
+425,A Good Day to Die Hard,,R,"['Action', ' Thriller']",98,5.2,28,208015
+426,A Midsummer Night's Dream,,PG-13,"['Comedy', ' Fantasy', ' Romance']",116,6.4,61,25835
+427,Dan in Real Life,,PG-13,"['Comedy', ' Drama', ' Romance']",98,6.8,65,103632
+428,Plan B,,TV-MA,['Comedy'],107,6.7,74,3834
+429,The Beverly Hillbillies,,PG,"['Comedy', ' Family']",92,5,37,18894
+430,The Hurricane,,R,"['Biography', ' Drama', ' Sport']",146,7.6,74,97832
+431,Joy Ride,,R,"['Action', ' Mystery', ' Thriller']",97,6.6,75,70479
+432,Fever Pitch,,PG-13,"['Comedy', ' Drama', ' Romance']",104,6.2,56,45747
+433,Rookie of the Year,,PG,"['Comedy', ' Family', ' Fantasy']",103,6,53,28805
+434,Cheaper by the Dozen 2,,PG,"['Adventure', ' Comedy', ' Family']",94,5.5,34,59575
+435,Ice Age: Continental Drift,,PG,"['Animation', ' Adventure', ' Comedy']",88,6.5,49,210333
+436,Lady and the Tramp,,G,"['Animation', ' Adventure', ' Comedy']",76,7.3,78,136905
+437,What Happens in Vegas,,PG-13,"['Comedy', ' Romance']",99,6.1,36,178072
+438,Alvin and the Chipmunks: The Road Chip,,PG,"['Animation', ' Adventure', ' Comedy']",92,4.9,33,20138
+439,Confessions of a Teenage Drama Queen,,PG,"['Comedy', ' Family', ' Music']",89,4.6,33,29675
+440,Grosse Pointe Blank,,R,"['Action', ' Comedy', ' Crime']",107,7.3,76,95417
+441,Diary of a Wimpy Kid: Rodrick Rules,,PG,"['Comedy', ' Family']",99,6.5,51,32112
+442,Chicken Little,,G,"['Animation', ' Adventure', ' Comedy']",81,5.7,48,93695
+443,The Muppets,,PG,"['Adventure', ' Comedy', ' Family']",103,7.1,75,93115
+444,Scary Movie 4,,PG-13,['Comedy'],83,5.1,40,122509
+445,Oliver & Company,,G,"['Animation', ' Adventure', ' Comedy']",74,6.6,58,49179
+446,The Simpsons Movie,,PG-13,"['Animation', ' Adventure', ' Comedy']",87,7.3,80,331699
+447,The Client,,PG-13,"['Crime', ' Drama', ' Mystery']",119,6.7,65,67439
+448,Fantasia,,G,"['Animation', ' Family', ' Fantasy']",125,7.7,96,97272
+449,Free Solo,,PG-13,"['Documentary', ' Adventure', ' Sport']",100,8.1,83,68940
+450,Marley & Me,,PG,"['Comedy', ' Drama', ' Family']",115,7,53,159336
+451,The Fox and the Hound,,G,"['Animation', ' Adventure', ' Drama']",83,7.2,65,94231
+452,Copycat,,R,"['Drama', ' Mystery', ' Thriller']",123,6.6,54,60534
+453,Entrapment,,PG-13,"['Action', ' Crime', ' Romance']",113,6.3,54,116986
+454,The Ice Age Adventures of Buck Wild,,PG,"['Animation', ' Adventure', ' Comedy']",82,4.3,30,13725
+455,The Finest Hours,,PG-13,"['Action', ' Drama', ' History']",117,6.7,58,67381
+456,Tell It to the Bees,,TV-MA,"['Drama', ' Romance']",108,6.4,50,5504
+457,Hope Floats,,PG-13,"['Drama', ' Romance']",114,6,42,28150
+458,Hot Shots! Part Deux,,PG-13,"['Action', ' Comedy']",86,6.6,64,91934
+459,Alvin and the Chipmunks: Chipwrecked,,G,"['Animation', ' Adventure', ' Comedy']",87,4.3,24,35992
+460,Fantastic Four: Rise of the Silver Surfer,,PG,"['Action', ' Adventure', ' Fantasy']",92,5.6,45,266930
+461,Eddie the Eagle,,PG-13,"['Adventure', ' Biography', ' Comedy']",106,7.3,54,94127
+462,Tuck Everlasting,,PG,"['Drama', ' Family', ' Fantasy']",90,6.6,66,24238
+463,Confessions of a Shopaholic,,PG,"['Comedy', ' Romance']",104,5.8,38,79129
+464,The Rescue,,PG,"['Documentary', ' Action', ' Mystery']",107,8.3,84,16416
+465,Ernest Saves Christmas,,PG,"['Comedy', ' Family', ' Fantasy']",95,5.6,44,11596
+466,This Boy's Life,,R,"['Biography', ' Drama']",115,7.3,60,53639
+467,Mr. Holland's Opus,,PG,"['Drama', ' Music']",143,7.3,59,39890
+468,Artemis Fowl,,PG,"['Adventure', ' Family', ' Fantasy']",95,4.2,31,28591
+469,Date Night,,PG-13,"['Comedy', ' Crime', ' Romance']",88,6.3,56,163956
+470,Flightplan,,PG-13,"['Drama', ' Mystery', ' Thriller']",98,6.3,53,163718
+471,Don't Say a Word,,R,"['Drama', ' Mystery', ' Thriller']",113,6.3,38,53212
+472,The Best Exotic Marigold Hotel,,PG-13,"['Comedy', ' Drama', ' Romance']",124,7.2,62,96002
+473,Mirrors,,R,"['Horror', ' Mystery']",110,6.1,35,108489
+474,The Rescuers Down Under,,G,"['Animation', ' Adventure', ' Comedy']",77,6.8,70,43591
+475,The Kid Who Would Be King,,PG,"['Action', ' Adventure', ' Family']",120,6.1,66,17192
+476,What's Your Number?,,R,"['Comedy', ' Romance']",106,6,35,81851
+477,Vacation Friends,,R,"['Adventure', ' Comedy']",103,6.3,49,22652
+478,The Peanuts Movie,,G,"['Animation', ' Adventure', ' Comedy']",88,7,67,46599
+479,Centurion,,R,"['Action', ' Drama', ' History']",97,6.3,62,83403
+480,Gnomeo & Juliet,,G,"['Animation', ' Adventure', ' Comedy']",84,5.9,53,56473
+481,The Rescuers,,G,"['Animation', ' Adventure', ' Comedy']",78,6.9,74,64892
+482,Blank Check,,PG,"['Comedy', ' Crime', ' Family']",93,5.2,42,20895
+483,Epic,,PG,"['Animation', ' Action', ' Adventure']",102,6.6,52,106017
+484,Ice Age: The Meltdown,,PG,"['Animation', ' Adventure', ' Comedy']",91,6.8,59,279436
+485,Gulliver's Travels,,PG,"['Adventure', ' Comedy', ' Family']",85,4.9,33,70224
+486,Aloha,,PG-13,"['Comedy', ' Drama', ' Romance']",105,5.4,40,67433
+487,Swiss Family Robinson,,G,"['Adventure', ' Family']",126,7.1,61,16651
+488,Paper Towns,,PG-13,"['Adventure', ' Comedy', ' Drama']",109,6.2,56,103645
+489,Rise,,PG,"['Biography', ' Drama', ' Sport']",113,7,74,6589
+490,Black Beauty,,TV-PG,"['Drama', ' Family']",110,6.4,52,3828
+491,Flubber,,PG,"['Comedy', ' Family', ' Sci-Fi']",93,5.3,37,90364
+492,The Lizzie McGuire Movie,,PG,"['Adventure', ' Comedy', ' Family']",94,5.5,56,40056
+493,Rio 2,,G,"['Animation', ' Adventure', ' Comedy']",101,6.3,49,91463
+494,The Black Cauldron,,PG,"['Animation', ' Action', ' Adventure']",80,6.3,59,36973
+495,Frankenweenie,,PG,"['Animation', ' Comedy', ' Drama']",87,6.9,74,109223
+496,Race to Witch Mountain,,PG,"['Action', ' Adventure', ' Family']",98,5.7,52,60361
+497,The Straight Story,,G,"['Biography', ' Drama']",112,8,86,91120
+498,Men of Honor,,R,"['Biography', ' Drama']",129,7.2,56,117976
+499,Because of Winn-Dixie,,PG,"['Comedy', ' Drama', ' Family']",106,6.3,54,11836
+500,The Black Hole,,PG,"['Action', ' Sci-Fi']",98,5.9,52,26074
+501,Pete's Dragon,,G,"['Animation', ' Adventure', ' Comedy']",128,6.3,46,25084
+502,The Negotiator,,R,"['Action', ' Crime', ' Drama']",140,7.3,62,143953
+503,Drumline,,PG-13,"['Comedy', ' Drama', ' Romance']",118,5.9,63,34947
+504,The Sword in the Stone,,G,"['Animation', ' Adventure', ' Comedy']",79,7.1,61,99200
+505,Ice Age: Dawn of the Dinosaurs,,PG,"['Animation', ' Adventure', ' Comedy']",94,6.9,50,246519
+506,High School Musical 3: Senior Year,,G,"['Comedy', ' Drama', ' Family']",112,4.9,57,63434
+507,Stay,,R,"['Drama', ' Mystery', ' Thriller']",99,6.7,41,80174
+508,Suffragette,,PG-13,"['Drama', ' History']",106,6.9,64,42573
+509,Battle of the Sexes,,PG-13,"['Biography', ' Comedy', ' Drama']",121,6.7,73,56268
+510,Books of Blood,,TV-MA,"['Drama', ' Horror', ' Mystery']",107,5.6,42,8007
+511,Bambi,,G,"['Animation', ' Adventure', ' Drama']",69,7.3,91,144056
+512,"20,000 Leagues Under the Sea",,G,"['Adventure', ' Drama', ' Family']",127,7.2,83,34370
+513,Planes,,PG,"['Animation', ' Adventure', ' Comedy']",91,5.7,39,45796
+514,The Object of My Affection,,R,"['Comedy', ' Drama', ' Romance']",111,6,51,20478
+515,The Muppet Movie,,G,"['Adventure', ' Comedy', ' Family']",95,7.6,74,36574
+516,Bride Wars,,PG,"['Comedy', ' Romance']",89,5.4,24,108771
+517,Water for Elephants,,PG-13,"['Drama', ' Romance']",120,6.9,52,117057
+518,Flight of the Phoenix,,PG-13,"['Action', ' Adventure', ' Drama']",113,6.1,47,54954
+519,Ramona and Beezus,,G,"['Comedy', ' Drama', ' Family']",103,6.5,56,19066
+520,All About Steve,,PG-13,"['Comedy', ' Romance']",99,4.8,17,42512
+521,Winnie the Pooh,,G,"['Animation', ' Adventure', ' Comedy']",63,7.1,74,25715
+522,Eight Below,,PG,"['Adventure', ' Drama', ' Family']",120,7.3,64,65379
+523,Suite Fran莽aise,,,"['Drama', ' Romance', ' Thriller']",107,7,63,26800
+524,Hidalgo,,PG-13,"['Action', ' Adventure', ' Biography']",136,6.7,54,82771
+525,The Iron Lady,,PG-13,"['Biography', ' Drama']",105,6.4,52,110034
+526,Speed 2: Cruise Control,,PG-13,"['Action', ' Adventure', ' Crime']",121,3.9,23,81935
+527,The Great Mouse Detective,,G,"['Animation', ' Adventure', ' Family']",74,7.2,73,50414
+528,Downhill,,R,"['Comedy', ' Drama']",86,4.9,49,12661
+529,Evita,,PG,"['Biography', ' Drama', ' History']",135,6.3,45,36074
+530,Turner & Hooch,,PG,"['Comedy', ' Crime', ' Drama']",97,6.2,36,71838
+531,When in Rome,,PG-13,"['Comedy', ' Romance']",91,5.5,25,62836
+532,Like Mike,,PG,"['Comedy', ' Family', ' Fantasy']",99,5.3,47,21188
+533,"McFarland, USA",,PG,"['Biography', ' Drama', ' Sport']",129,7.4,60,39382
+534,True Story,,R,"['Biography', ' Crime', ' Drama']",99,6.3,50,69345
+535,Hannah Montana: The Movie,,G,"['Comedy', ' Drama', ' Family']",102,4.5,47,43112
+536,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",,PG,"['Comedy', ' Drama', ' Family']",81,6.2,54,44656
+537,You Again,,PG,"['Comedy', ' Romance']",105,5.7,28,52457
+538,"Hello, Dolly!",,G,"['Adventure', ' Comedy', ' Musical']",146,7,51,15653
+539,Tigerland,,R,"['Drama', ' War']",101,7,55,41586
+540,"Honey, I Blew Up the Kid",,PG,"['Adventure', ' Comedy', ' Family']",89,4.9,50,44714
+541,Red Tails,,PG-13,"['Action', ' Drama', ' History']",125,5.9,46,35914
+542,Babes in Toyland,,Approved,"['Comedy', ' Family', ' Fantasy']",106,6.1,55,4314
+543,Down with Love,,PG-13,"['Comedy', ' Romance']",101,6.3,52,42241
+544,Star Wars: The Clone Wars,,PG,"['Animation', ' Action', ' Adventure']",98,5.9,35,66874
+545,Aliens in the Attic,,PG,"['Adventure', ' Comedy', ' Family']",86,5.4,42,22643
+546,The Horse Whisperer,,PG-13,"['Drama', ' Romance', ' Western']",169,6.7,65,41669
+547,"I, Daniel Blake",,R,['Drama'],100,7.8,78,60496
+548,Clouds,,PG-13,"['Biography', ' Drama', ' Music']",121,7.5,55,10389
+549,Moonwalkers,,R,"['Action', ' Comedy']",96,6.1,39,9398
+550,Doctor Dolittle,,PG-13,"['Comedy', ' Family', ' Fantasy']",85,5.4,46,97814
+551,Three Men and a Little Lady,,PG,"['Comedy', ' Drama', ' Family']",104,5.4,51,25103
+552,Bringing Down the House,,PG-13,['Comedy'],105,5.6,39,37718
+553,The One and Only Ivan,,PG,"['Adventure', ' Comedy', ' Drama']",95,6.5,58,12449
+554,Drive Me Crazy,,PG-13,"['Comedy', ' Drama', ' Romance']",91,5.7,42,20024
+555,Kinsey,,R,"['Biography', ' Drama', ' Romance']",118,7.1,79,49604
+556,G-Force,,PG,"['Animation', ' Action', ' Adventure']",88,5.1,41,47126
+557,Mighty Joe Young,,PG,"['Action', ' Adventure', ' Family']",114,5.7,51,29475
+558,Escape to Witch Mountain,,G,"['Adventure', ' Family', ' Fantasy']",97,6.3,60,10584
+559,Seabiscuit,,PG-13,"['Drama', ' History', ' Sport']",140,7.3,72,73757
+560,Dumbo,,G,"['Animation', ' Adventure', ' Drama']",64,7.2,96,132973
+561,Goal! The Dream Begins,,PG,"['Drama', ' Romance', ' Sport']",118,6.7,53,63770
+562,Broadcast News,,R,"['Comedy', ' Drama', ' Romance']",133,7.2,84,31793
+563,Big Momma's House 2,,PG-13,"['Comedy', ' Crime']",99,4.7,34,44051
+564,High Crimes,,PG-13,"['Crime', ' Drama', ' Mystery']",115,6.3,48,43912
+565,Mr. Popper's Penguins,,PG,"['Comedy', ' Family', ' Fantasy']",94,6,53,98285
+566,Muppet Treasure Island,,G,"['Action', ' Adventure', ' Comedy']",99,6.9,64,24610
+567,A Walk in the Clouds,,PG-13,"['Drama', ' Romance']",102,6.7,54,34611
+568,The Rookie,,G,"['Drama', ' Family', ' Sport']",127,6.9,72,35243
+569,Phenomenon,,PG,"['Drama', ' Fantasy', ' Romance']",123,6.4,41,80375
+570,Trance,,R,"['Crime', ' Drama', ' Mystery']",101,6.9,61,114636
+571,Brokedown Palace,,PG-13,"['Drama', ' Mystery', ' Thriller']",100,6.4,44,23002
+572,Muppets Most Wanted,,PG,"['Adventure', ' Comedy', ' Crime']",107,6.4,61,35004
+573,Roll Bounce,,PG-13,"['Comedy', ' Drama', ' Music']",112,6.2,59,7457
+574,In Her Shoes,,PG-13,"['Comedy', ' Drama', ' Romance']",130,6.5,60,62815
+575,Choke,,R,"['Comedy', ' Drama']",92,6.4,47,32785
+576,Old Yeller,,Approved,"['Adventure', ' Drama', ' Family']",83,7.3,84,13917
+577,Oklahoma!,,G,"['Comedy', ' Drama', ' Musical']",145,7,74,13049
+578,An Affair to Remember,,Not Rated,"['Drama', ' Romance']",115,7.4,71,30886
+579,Ice Princess,,G,"['Comedy', ' Drama', ' Family']",98,6,55,27521
+580,Love & Friendship,,PG,"['Comedy', ' Drama', ' Romance']",90,6.4,87,25239
+581,Mr. Holmes,,PG,"['Drama', ' Mystery']",104,6.8,67,65097
+582,Snow Dogs,,PG,"['Adventure', ' Comedy', ' Family']",99,5.2,29,27292
+583,Raising Helen,,PG-13,"['Comedy', ' Drama', ' Romance']",119,6,38,37254
+584,Babylon A.D.,,PG-13,"['Action', ' Adventure', ' Sci-Fi']",90,5.5,26,96293
+585,Lucy in the Sky,,R,"['Drama', ' Romance', ' Sci-Fi']",124,4.9,36,8059
+586,She's the One,,R,"['Comedy', ' Drama', ' Romance']",96,6,53,17799
+587,Home on the Range,,PG,"['Animation', ' Adventure', ' Comedy']",76,5.4,50,23604
+588,The Man with One Red Shoe,,PG,"['Comedy', ' Thriller']",92,5.7,31,16203
+589,The Big Year,,PG,['Comedy'],100,6.2,53,45788
+590,Parental Guidance,,PG,"['Comedy', ' Family']",105,6,36,26096
+591,Pollyanna,,Approved,"['Comedy', ' Drama', ' Family']",134,7.4,66,10526
+592,Calendar Girls,,PG-13,"['Comedy', ' Drama']",108,6.9,60,26761
+593,The Lunchbox,,PG,"['Drama', ' Romance']",104,7.8,76,56766
+594,I Give It a Year,,R,"['Comedy', ' Romance']",97,5.7,50,37678
+595,Goodbye Christopher Robin,,PG,"['Biography', ' Drama', ' Family']",107,7.1,54,27879
+596,Diary of a Wimpy Kid: The Long Haul,,PG,"['Adventure', ' Comedy', ' Family']",91,4.3,39,9440
+597,Stuck on You,,PG-13,['Comedy'],118,5.8,62,53616
+598,My Super Ex-Girlfriend,,PG-13,"['Comedy', ' Romance', ' Sci-Fi']",96,5.2,50,64907
+599,How Stella Got Her Groove Back,,R,"['Comedy', ' Drama', ' Romance']",124,5.7,56,7744
+600,All I See Is You,,R,['Drama'],109,5.4,43,12301
+601,Clouds of Sils Maria,,R,['Drama'],124,6.7,79,29994
+602,Million Dollar Arm,,PG,"['Biography', ' Drama', ' Sport']",124,7,56,46345
+603,Another Year,,PG-13,"['Comedy', ' Drama']",129,7.4,80,29813
+604,The Wild,,G,"['Animation', ' Adventure', ' Comedy']",82,5.2,47,26253
+605,The Love Bug,,G,"['Comedy', ' Family', ' Sport']",108,6.5,48,16320
+606,Stargirl,,PG,"['Comedy', ' Drama', ' Family']",107,6.2,61,5693
+607,Nixon,,R,"['Biography', ' Drama', ' History']",192,7.1,66,31338
+608,The Legend of Bagger Vance,,PG-13,"['Drama', ' Fantasy', ' Sport']",126,6.7,47,57536
+609,Kiss of the Dragon,,R,"['Action', ' Crime', ' Thriller']",98,6.6,58,64256
+610,First Daughter,,PG,"['Comedy', ' Drama', ' Romance']",106,5,31,23898
+611,The Joy Luck Club,,R,['Drama'],139,7.7,84,17047
+612,Picture Perfect,,PG-13,"['Comedy', ' Drama', ' Romance']",101,5.5,44,20465
+613,Made in America,,PG-13,['Comedy'],111,5.1,49,17028
+614,Guess Who,,PG-13,"['Comedy', ' Romance']",105,5.9,49,43329
+615,The Binge,,TV-MA,['Comedy'],98,5.2,35,3769
+616,Underdog,,PG,"['Action', ' Adventure', ' Comedy']",84,4.7,37,21852
+617,Trapped in Paradise,,PG-13,"['Adventure', ' Comedy', ' Crime']",111,5.9,31,15289
+618,Flora & Ulysses,,PG,"['Adventure', ' Comedy', ' Family']",95,6.2,62,6198
+619,Secret Society of Second Born Royals,,TV-PG,"['Action', ' Adventure', ' Comedy']",99,4.9,34,5498
+620,Garfield: A Tail of Two Kitties,,PG,"['Animation', ' Adventure', ' Comedy']",82,5,37,43710
+621,Big Business,,PG,['Comedy'],97,6.4,53,14473
+622,Strange Magic,,PG,"['Animation', ' Adventure', ' Comedy']",99,5.7,25,11367
+623,Meet Dave,,PG,"['Adventure', ' Comedy', ' Family']",90,5.1,43,41541
+624,High Strung,,PG,"['Drama', ' Music', ' Romance']",96,6.3,48,9511
+625,Catch That Kid,,PG,"['Action', ' Adventure', ' Comedy']",91,5.2,33,10533
+626,White Fang,,PG,"['Adventure', ' Drama']",107,6.7,62,21219
+627,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",,PG-13,"['Documentary', ' Music']",118,8,96,11915
+628,Fantasia 2000,,G,"['Animation', ' Family', ' Fantasy']",75,7.1,59,38988
+629,Hollywood Stargirl,,PG,"['Comedy', ' Drama', ' Family']",105,5.7,66,1047
+630,Enduring Love,,R,"['Drama', ' Mystery', ' Romance']",100,6.3,61,10642
+631,That Darn Cat!,,Approved,"['Comedy', ' Crime', ' Family']",116,6.7,71,7164
+632,Planes: Fire & Rescue,,PG,"['Animation', ' Adventure', ' Comedy']",83,5.9,48,18409
+633,Mars Needs Moms,,PG,"['Animation', ' Action', ' Adventure']",88,5.4,49,22750
+634,The Great Muppet Caper,,G,"['Adventure', ' Comedy', ' Crime']",97,7.1,70,15664
+635,Darby O'Gill and the Little People,,G,"['Adventure', ' Family', ' Fantasy']",93,7.1,80,8385
+636,Dr. Dolittle 2,,PG,"['Comedy', ' Family', ' Fantasy']",87,4.7,49,45593
+637,The Apple Dumpling Gang,,G,"['Comedy', ' Family', ' Western']",100,6.4,59,5975
+638,Green Card,,PG-13,"['Comedy', ' Drama', ' Romance']",107,6.3,58,24754
+639,Peter Pan 2: Return to Never Land,,G,"['Animation', ' Adventure', ' Family']",72,5.8,49,20620
+640,Rules Don't Apply,,PG-13,"['Comedy', ' Drama', ' Romance']",127,5.7,60,11087
+641,Treasure Island,,PG,"['Adventure', ' Family']",96,6.9,89,8578
+642,Sea Fever,,,"['Drama', ' Horror', ' Mystery']",95,5.7,60,11831
+643,The Odd Life of Timothy Green,,PG,"['Comedy', ' Drama', ' Family']",105,6.6,47,47230
+644,Life with Mikey,,PG,"['Comedy', ' Family']",91,5.6,50,6128
+645,The Sense of an Ending,,PG-13,"['Drama', ' Mystery']",108,6.4,61,6887
+646,Mistress America,,R,"['Comedy', ' Drama']",84,6.7,75,27369
+647,The Sentinel,,PG-13,"['Action', ' Crime', ' Thriller']",108,6.1,49,49973
+648,Muppets from Space,,G,"['Adventure', ' Comedy', ' Family']",87,6.2,53,19753
+649,Unfinished Business,,R,"['Comedy', ' Drama']",91,5.4,32,33859
+650,Blaze,,R,"['Biography', ' Drama', ' Music']",129,6.5,75,3332
+651,"Big Mommas: Like Father, Like Son",,PG-13,"['Action', ' Comedy', ' Crime']",107,4.4,22,27846
+652,Safety,,PG,"['Biography', ' Drama', ' Sport']",122,6.8,55,4152
+653,Derek DelGaudio's In & Of Itself,,TV-MA,['Documentary'],90,8.2,82,4867
+654,Welcome to Mooseport,,PG-13,"['Comedy', ' Romance']",110,5.3,33,12898
+655,Someone Like You,,PG-13,"['Comedy', ' Romance']",97,6,32,26573
+656,Better Nate Than Ever,,PG,"['Comedy', ' Drama', ' Family']",94,6.3,66,2693
+657,The Disappearance of Alice Creed,,R,"['Crime', ' Thriller']",100,6.7,65,26810
+658,Marmaduke,,PG,"['Comedy', ' Family']",87,4.3,30,15830
+659,The Adventures of Ichabod and Mr. Toad,,Approved,"['Animation', ' Comedy', ' Family']",68,6.9,74,16166
+660,Headshot,,Not Rated,"['Action', ' Drama', ' Thriller']",118,6.3,61,15057
+661,People Like Us,,PG-13,"['Comedy', ' Drama']",114,7,49,43362
+662,The Gods Must Be Crazy II,,PG,['Comedy'],98,6.8,51,17185
+663,The Absent Minded Professor,,Approved,"['Comedy', ' Family', ' Sci-Fi']",92,6.7,75,8546
+664,Veronica Guerin,,R,"['Biography', ' Crime', ' Drama']",98,6.8,55,20714
+665,The Jungle Book 2,,G,"['Animation', ' Adventure', ' Comedy']",72,5.3,38,16682
+666,The Love Punch,,PG-13,['Comedy'],94,5.7,44,14890
+667,Three Fugitives,,PG-13,"['Action', ' Comedy']",96,6.2,40,12108
+668,Julia,,PG,['Drama'],117,7.1,58,9861
+669,Flicka,,PG,"['Adventure', ' Drama', ' Family']",95,6,57,8104
+670,Cocoon: The Return,,PG,"['Adventure', ' Comedy', ' Mystery']",116,5.4,45,16642
+671,Say It Isn't So,,R,"['Comedy', ' Romance']",95,5,21,13374
+672,Return from Witch Mountain,,G,"['Adventure', ' Family', ' Fantasy']",95,5.7,51,5275
+673,Dear Frankie,,PG-13,"['Drama', ' Romance']",105,7.7,63,21983
+674,Recess: School's Out,,G,"['Animation', ' Adventure', ' Comedy']",82,6.5,43,10865
+675,Millions,,PG,"['Comedy', ' Crime', ' Drama']",98,6.8,74,25667
+676,Baggage Claim,,PG-13,"['Comedy', ' Romance']",96,5.1,34,9381
+677,Turbo: A Power Rangers Movie,,PG,"['Action', ' Adventure', ' Family']",99,3.6,35,9040
+678,The Three Caballeros,,Approved,"['Animation', ' Comedy', ' Family']",71,6.3,85,14364
+679,Duets,,R,"['Comedy', ' Drama', ' Music']",112,6.1,40,9701
+680,The Tigger Movie,,G,"['Animation', ' Adventure', ' Comedy']",77,6.3,53,19218
+681,The Shaggy Dog,,Approved,"['Comedy', ' Family', ' Fantasy']",104,6.4,45,5183
+682,Prom,,PG,"['Comedy', ' Drama', ' Family']",104,5.4,50,15397
+683,Rebound,,PG,"['Comedy', ' Family', ' Sport']",86,5.1,36,13174
+684,A Good Woman,,PG,"['Drama', ' Comedy', ' Romance']",93,6.5,53,13514
+685,Wendy,,PG-13,"['Drama', ' Fantasy']",111,5.7,55,3486
+686,Aftershock,,TV-MA,['Documentary'],86,6.5,87,227
+687,Tin Men,,R,"['Comedy', ' Drama']",112,6.6,75,9174
+688,Phineas and Ferb the Movie: Candace Against the Universe,,TV-G,"['Animation', ' Adventure', ' Comedy']",86,7.1,77,4657
+689,Black Is King,,TV-14,"['Adventure', ' Drama', ' Fantasy']",85,5.8,84,8958
+690,Candleshoe,,G,"['Adventure', ' Comedy', ' Drama']",101,6.7,68,4531
+691,Swallows and Amazons,,Not Rated,"['Adventure', ' Drama', ' Family']",96,6.1,65,3251
+692,Walking with Dinosaurs 3D,,PG,"['Animation', ' Adventure', ' Comedy']",87,5.2,37,11448
+693,The Incredible Journey,,G,"['Adventure', ' Drama', ' Family']",80,7,87,4792
+694,The Ignorant Fairies,,R,"['Drama', ' Romance']",106,7.3,69,9456
+695,Before the Flood,,PG,"['Documentary', ' News']",96,8.2,63,28023
+696,Outrageous Fortune,,R,['Comedy'],99,6.2,55,8269
+697,Fun and Fancy Free,,Approved,"['Animation', ' Adventure', ' Comedy']",73,6.4,66,8528
+698,Torn,,,['Documentary'],92,7.4,79,1205
+699,Herbie Rides Again,,Passed,"['Comedy', ' Family', ' Fantasy']",88,5.7,49,8241
+700,Buena Vista Social Club,,G,"['Documentary', ' Music']",105,7.6,81,19479
+701,Free Dance,,PG,"['Music', ' Romance']",103,6.8,43,2034
+702,The Strongest Man in the World,,G,"['Comedy', ' Family', ' Sci-Fi']",92,5.9,63,3385
+703,Timmy Failure: Mistakes Were Made,,PG,"['Adventure', ' Comedy', ' Drama']",99,6,60,3055
+704,Guilty by Suspicion,,PG-13,['Drama'],105,6.5,64,8740
+705,Herbie Goes to Monte Carlo,,G,"['Action', ' Adventure', ' Comedy']",105,5.6,38,7610
+706,Post Grad,,PG-13,"['Comedy', ' Romance']",88,5.3,35,14479
+707,Two Days in Paris,,R,"['Comedy', ' Drama', ' Romance']",96,6.7,67,31432
+708,Beba,,R,['Documentary'],79,6.2,74,113
+709,We Feed People,,,['Documentary'],89,7.3,77,422
+710,That Darn Cat,,PG,"['Action', ' Comedy', ' Crime']",89,4.6,36,4555
+711,College Road Trip,,G,"['Adventure', ' Comedy', ' Drama']",83,4.3,36,16225
+712,Blackbeard's Ghost,,Approved,"['Comedy', ' Family', ' Fantasy']",106,6.8,71,6200
+713,100 Streets,,TV-MA,['Drama'],93,5.8,44,4182
+714,Herbie Goes Bananas,,G,"['Adventure', ' Comedy', ' Family']",100,4.9,55,5863
+715,Confetti,,R,"['Comedy', ' Music', ' Romance']",100,5.7,57,5188
+716,Pina,,PG,"['Documentary', ' Music']",103,7.6,83,15364
+717,The Story of Robin Hood and His Merrie Men,,Approved,"['Action', ' Adventure', ' Family']",84,6.6,64,2009
+718,Aliens of the Deep,,G,"['Documentary', ' Family']",100,6.3,71,3099
+719,The First Wave,,R,"['Documentary', ' History']",93,7,85,943
+720,Gus,,Passed,"['Comedy', ' Family', ' Sport']",96,5.7,52,1970
+721,Saludos Amigos,,Passed,"['Animation', ' Short', ' Adventure']",42,6.1,60,6988
+722,The Reason I Jump,,,"['Documentary', ' Drama']",82,7.4,83,955
+723,Mija,,PG-13,"['Documentary', ' Music']",85,7.1,73,58
+724,The Apple Dumpling Gang Rides Again,,G,"['Comedy', ' Family', ' Western']",88,6,37,2960
+725,In the Mix,,PG-13,"['Comedy', ' Crime', ' Drama']",95,2.9,31,8356
+726,Melody Time,,Approved,"['Animation', ' Comedy', ' Family']",75,6.2,69,6249
+727,The Million Dollar Duck,,G,"['Comedy', ' Family', ' Sci-Fi']",89,5.7,45,2419
+728,Bee Season,,PG-13,"['Drama', ' Family']",104,5.5,54,6981
+729,Lola Versus,,R,['Comedy'],87,5.5,49,8794
+730,Olivia Rodrigo: driving home 2 u (a SOUR film),,,"['Documentary', ' Biography', ' Music']",76,7.2,66,1252
+731,Unidentified Flying Oddball,,G,"['Adventure', ' Comedy', ' Family']",93,5.2,66,1227
+732,The Secret Agent,,R,"['Drama', ' Thriller']",95,5.6,41,2435
+733,Maya the Bee Movie,,G,"['Animation', ' Adventure', ' Comedy']",89,5.9,49,2079
+734,Fauci,,PG-13,"['Documentary', ' Biography', ' History']",104,6.2,70,12580
+735,Sunset Strip,,R,"['Comedy', ' Drama']",90,5.6,33,1711
+736,"Westwood: Punk, Icon, Activist",,,"['Documentary', ' Biography', ' History']",83,6.2,64,963
+737,Teacher's Pet,,PG,"['Animation', ' Adventure', ' Comedy']",73,5.7,74,1835
+738,Glee: The 3D Concert Movie,,PG,"['Documentary', ' Music']",84,5.5,48,5917
+739,Elephant,,G,"['Documentary', ' Adventure', ' Biography']",86,7.2,61,2271
+740,Becoming Cousteau,,PG-13,"['Documentary', ' Adventure', ' Biography']",94,7.1,74,1166
+741,African Cats,,G,"['Documentary', ' Adventure']",89,7.5,61,6525
+742,Shall We Dance?,,PG,"['Comedy', ' Drama', ' Music']",136,7.7,68,11225
+743,What a Man,,R,"['Comedy', ' Romance']",95,5.5,39,3870
+744,The Living Desert,,G,"['Family', ' Documentary']",69,7.4,69,1559
+745,Science Fair,,PG,['Documentary'],90,7.6,79,613
+746,Born in China,,G,['Documentary'],79,7.1,57,3910
+747,Dolphin Reef,,G,"['Documentary', ' Family']",77,7.4,79,1134
+748,Step,,PG,['Documentary'],84,7,81,1192
+749,Playing with Sharks: The Valerie Taylor Story,,TV-PG,"['Documentary', ' Adventure']",95,7.5,78,527
+750,Waking Sleeping Beauty,,PG,"['Documentary', ' Drama', ' History']",86,7.5,70,3082
+751,Howard,,TV-PG,"['Documentary', ' Biography', ' Music']",94,7.6,76,1189
+752,Moomins on the Riviera,,G,"['Animation', ' Comedy', ' Family']",80,6,59,1383
+753,Wolfgang,,TV-PG,"['Documentary', ' Biography']",78,6.9,64,403
+754,Cunningham,,PG,"['Documentary', ' Biography', ' Music']",93,6.6,83,408
+755,America's Heart & Soul,,PG,['Documentary'],84,5,55,692
+756,Own the Room,,TV-PG,['Documentary'],91,6.7,68,236
+757,Walt & El Grupo,,PG,['Documentary'],106,6.3,55,427
